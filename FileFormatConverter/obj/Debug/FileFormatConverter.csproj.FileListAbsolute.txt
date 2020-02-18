@@ -1,0 +1,14 @@
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\bin\Debug\FileFormatConverter.exe.config
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\bin\Debug\FileFormatConverter.exe
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\bin\Debug\FileFormatConverter.pdb
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConverter.csprojAssemblyReference.cache
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConverter.Properties.Resources.resources
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConverter.csproj.GenerateResource.cache
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConverter.csproj.CoreCompileInputs.cache
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConverter.exe
+c:\users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConverter.pdb
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConfigurator.GUI.resources
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\bin\Debug\FileFormatConfigurator.dll
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\bin\Debug\FileFormatConfigurator.pdb
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\bin\Debug\FileFormatConfigurator.dll.config
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConverter\obj\Debug\FileFormatConverter.csproj.CopyComplete
