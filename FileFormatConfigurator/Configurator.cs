@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,6 +12,33 @@ namespace FileFormatConfigurator
         public static StringBuilder log = new StringBuilder();
 
         public static Boolean CommandLine = true;
+
+        public Configurator()
+        {
+        }
+        public void Load(string validImportFile, List<string> outputFilePathList, Boolean commandLine)
+        {
+            OnStatusMessage($"Loading '{validImportFile}'");
+        }
+        public void GenerateConfigurations(string validImportFile, List<string> outputFilePathList)
+        {
+            switch (Path.GetExtension(validImportFile))
+            {
+                case ".xlsx":
+                    ExcelGenerator.Load(validImportFile, outputFilePathList);
+                    break;
+                case ".json":
+                    break;
+                case ".xml":
+                    break;
+                case ".csv":
+                    break;
+                case ".sql":
+                    break;
+                default:
+                    break;
+            }
+        }
         public event EventHandler<MessageEventArgs> StatusMessage;
         protected void OnStatusMessage(string statusMessage)
         {

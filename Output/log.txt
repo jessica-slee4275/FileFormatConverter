@@ -1,10 +1,14 @@
-2020-02-17 10:10:32 Processing configurations...
-2020-02-17 10:10:32 Import Path     : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile
-2020-02-17 10:10:32 Export Path     : C:\Users\asdfk\source\repos\FileFormatConverter\Output
-2020-02-17 10:10:32 Export Format   : Excel, JSON
-2020-02-17 10:10:32 Valid processing file   : 'Financial Sample.xlsx'
-2020-02-17 10:10:32 Invalid processing file : 'test.txt'
-2020-02-17 10:10:32 There is no need to format files
-2020-02-17 10:10:32 Done processing configurations.
-2020-02-17 10:10:32 Output Path     : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output'
-2020-02-17 10:10:32 Log file Path   : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\log.txt'
+2020-02-19 11:15:53 Processing configurations...
+2020-02-19 11:15:53 Import Path     : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile
+2020-02-19 11:15:53 Export Path     : C:\Users\asdfk\source\repos\FileFormatConverter\Output
+2020-02-19 11:15:53 Export Format   : Excel, JSON
+2020-02-19 11:15:53 Valid processing file   : 'Financial Sample.xlsx'
+2020-02-19 11:15:53 Invalid processing file : 'test.txt'
+2020-02-19 11:15:53 Duplicated path file will not generated. - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.xlsx'
+2020-02-19 11:15:53 Duplicated path file will not generated. - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\test.xlsx'
+2020-02-19 11:15:53 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.json'
+2020-02-19 11:15:53 Duplicated path file will not generated. - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\test.json'
+2020-02-19 11:15:54 Loading 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.xlsx'
+2020-02-19 11:15:54 Done processing configurations.
+2020-02-19 11:15:54 Output Path     : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output'
+2020-02-19 11:15:54 Log file Path   : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\log.txt'

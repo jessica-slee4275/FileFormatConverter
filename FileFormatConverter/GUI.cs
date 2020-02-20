@@ -19,9 +19,11 @@ namespace FileFormatConfigurator
         private string _ImportPath;
         private string _ExportPath;
         private Dictionary<string, string> _ExportFormat;
+        private List<string> OutputPathList = new List<string>() { };
+        private List<string> ValidImportFilesPathList = new List<string> { };
         List<Exception> exceptions = new List<Exception>();
         private bool followThrough = true;
-        private List<string> validFiles = new List<string> { };
+        
         private string logFilePath = "";
         public GUI()
         {
@@ -82,6 +84,11 @@ namespace FileFormatConfigurator
                     var configurator = new Configurator();
                     configurator.ErrorMessage += OnConfigurator_ErrorMessage;
                     configurator.StatusMessage += OnConfigurator_StatusMessage;
+                    if(ValidImportFilesPathList.Count > 0 && OutputPathList.Count > 0)
+                    foreach (var validImportFilePath in ValidImportFilesPathList) { 
+                        configurator.Load(validImportFilePath, OutputPathList, Configurator.CommandLine);
+                        configurator.GenerateConfigurations(validImportFilePath, OutputPathList);
+                    }
                 }
                 catch (Exception e) { exceptions.Add(e); }
                 finally
@@ -141,7 +148,7 @@ namespace FileFormatConfigurator
                         var fileformat = Path.GetExtension(filePath);
                         if (Regex.IsMatch(fileformat, Config.ImportFileFilterRange))
                         {
-                            validFiles.Add(filePath);
+                            ValidImportFilesPathList.Add(filePath);
                             LogStatus($"Valid processing file   : '{Path.GetFileName(file)}'", Status.SUCCESS);
                         }
                         else
@@ -149,7 +156,7 @@ namespace FileFormatConfigurator
                             LogStatus($"Invalid processing file : '{Path.GetFileName(file)}'", Status.WARNING);
                         }
                     }
-                    if (validFiles.Count == 0)
+                    if (ValidImportFilesPathList.Count == 0)
                     {
                         followThrough = false;
                         LogStatus($"{name} - '{inputPath}' : There is no valid file format.", Status.ERROR);
@@ -164,7 +171,32 @@ namespace FileFormatConfigurator
         }
         private void CheckValidFormat(string importPath, Dictionary<string, string> formatList)
         {
-            
+            foreach (var format in formatList.Values)
+            {
+                if (File.Exists(importPath)) { PrintCreateFiles(importPath, format); }
+                else {
+                    string[] fileEntries = Directory.GetFiles(importPath);
+                    foreach (string fileName in fileEntries) {
+                        PrintCreateFiles(fileName, format);
+                    }
+                }
+            }
+            if (OutputPathList.Count == 0)
+            {
+                LogStatus($"There is same format between import path and selected format.", Status.ERROR);
+            }
+        }
+        private void PrintCreateFiles(string importPath, string format)
+        {            string path = importPath.Replace(Path.GetExtension(importPath), format);
+            if ((path != importPath) && (Regex.IsMatch(Path.GetExtension(importPath), Config.ImportFileFilterRange)))
+            {
+                OutputPathList.Add(path);
+                LogStatus($"Create File - '{path}'", Status.LOG);
+            }
+            else
+            {
+                LogStatus($"Duplicated path file will not generated. - '{path}'", Status.LOG);
+            }
         }
         private void PrintInvalidInput(string name, string inputPath)
         {
