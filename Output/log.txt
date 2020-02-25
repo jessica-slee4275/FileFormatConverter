@@ -1,14 +1,20 @@
-2020-02-19 11:15:53 Processing configurations...
-2020-02-19 11:15:53 Import Path     : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile
-2020-02-19 11:15:53 Export Path     : C:\Users\asdfk\source\repos\FileFormatConverter\Output
-2020-02-19 11:15:53 Export Format   : Excel, JSON
-2020-02-19 11:15:53 Valid processing file   : 'Financial Sample.xlsx'
-2020-02-19 11:15:53 Invalid processing file : 'test.txt'
-2020-02-19 11:15:53 Duplicated path file will not generated. - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.xlsx'
-2020-02-19 11:15:53 Duplicated path file will not generated. - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\test.xlsx'
-2020-02-19 11:15:53 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.json'
-2020-02-19 11:15:53 Duplicated path file will not generated. - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\test.json'
-2020-02-19 11:15:54 Loading 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.xlsx'
-2020-02-19 11:15:54 Done processing configurations.
-2020-02-19 11:15:54 Output Path     : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output'
-2020-02-19 11:15:54 Log file Path   : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\log.txt'
+2020-02-25 01:20:26 Processing configurations...
+2020-02-25 01:20:26 Import Path     : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile
+2020-02-25 01:20:26 Export Path     : C:\Users\asdfk\source\repos\FileFormatConverter\Output
+2020-02-25 01:20:26 Export Format   : JSON
+2020-02-25 01:20:27 Valid processing file   : 'Financial Sample.xlsx'
+2020-02-25 01:20:27 Invalid processing file : 'test.docx'
+2020-02-25 01:20:27 Valid processing file   : '~$Financial Sample.xlsx'
+2020-02-25 01:20:27 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.json'
+2020-02-25 01:20:27 Duplicated path file will not generated. - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\test.json'
+2020-02-25 01:20:27 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\~$Financial Sample.json'
+2020-02-25 01:20:27 Loading 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.xlsx'
+2020-02-25 01:20:27 Starting Excel Generator...
+2020-02-25 01:29:54 Finished to read the import file.
+2020-02-25 01:29:54 Starting Json Writer...
+2020-02-25 01:29:54 Creating Json file : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Financial Sample.json
+2020-02-25 01:29:54 Starting Json Writer...
+2020-02-25 01:29:54 Creating Json file : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\~$Financial Sample.json
+2020-02-25 01:29:54 Done processing configurations.
+2020-02-25 01:29:54 Output Path     : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output'
+2020-02-25 01:29:54 Log file Path   : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\log.txt'

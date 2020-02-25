@@ -85,9 +85,13 @@ namespace FileFormatConfigurator
                     configurator.ErrorMessage += OnConfigurator_ErrorMessage;
                     configurator.StatusMessage += OnConfigurator_StatusMessage;
                     if(ValidImportFilesPathList.Count > 0 && OutputPathList.Count > 0)
-                    foreach (var validImportFilePath in ValidImportFilesPathList) { 
-                        configurator.Load(validImportFilePath, OutputPathList, Configurator.CommandLine);
-                        configurator.GenerateConfigurations(validImportFilePath, OutputPathList);
+                    foreach (var validImportFilePath in ValidImportFilesPathList) {
+                            if (Path.GetFileName(validImportFilePath)[0] != '~')
+                            {
+                                configurator.Load(validImportFilePath, OutputPathList, Configurator.CommandLine);
+                                configurator.GenerateConfigurations(validImportFilePath, OutputPathList);
+                            }
+                        
                     }
                 }
                 catch (Exception e) { exceptions.Add(e); }

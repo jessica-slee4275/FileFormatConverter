@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace FileFormatConfigurator
 {
+    public enum FileFormat
+    {
+        xlsx, json, xml, csv, sql
+    }
     public class Configurator
     {
         public static StringBuilder log = new StringBuilder();
@@ -22,21 +26,34 @@ namespace FileFormatConfigurator
         }
         public void GenerateConfigurations(string validImportFile, List<string> outputFilePathList)
         {
-            switch (Path.GetExtension(validImportFile))
-            {
-                case ".xlsx":
-                    ExcelGenerator.Load(validImportFile, outputFilePathList);
-                    break;
-                case ".json":
-                    break;
-                case ".xml":
-                    break;
-                case ".csv":
-                    break;
-                case ".sql":
-                    break;
-                default:
-                    break;
+            var excelGenerator = new ExcelGenerator();
+                switch (Path.GetExtension(validImportFile))
+                {
+                    case ".xlsx":
+                        OnStatusMessage($"Starting Excel Generator...");
+                        ExcelGenerator.Load(validImportFile, outputFilePathList);
+                        OnStatusMessage($"Finished to read the import file.");
+                        foreach (var outputPath in outputFilePathList)
+                        {
+                            if (outputPath.Contains("json"))
+                            {
+                                OnStatusMessage($"Starting Json Writer...");
+                                var jsonWriter = new JsonWriter(validImportFile, outputFilePathList, excelGenerator);
+                            
+                                OnStatusMessage($"Creating Json file : {outputPath}");
+                            }
+                        }
+                        break;
+                    case ".json":
+                        break;
+                    case ".xml":
+                        break;
+                    case ".csv":
+                        break;
+                    case ".sql":
+                        break;
+                    default:
+                        break;
             }
         }
         public event EventHandler<MessageEventArgs> StatusMessage;

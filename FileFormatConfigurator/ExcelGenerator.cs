@@ -10,6 +10,7 @@ namespace FileFormatConfigurator
 {
     public class ExcelGenerator
     {
+        public static List<List<string>> Title_Row = new List<List<string>>() { };
         public static List<List<string>> Rows = new List<List<string>>() { };
         public ExcelGenerator()
         {
@@ -34,16 +35,29 @@ namespace FileFormatConfigurator
             //excel is not zero based!!
             for (int i = 1; i <= rowCount; i++)
             {
+                List<string> title_row = new List<string>() { };
                 List<string> row = new List<string>() { };
+                
                 for (int j = 1; j <= colCount; j++)
                 {
                     if (xlRange.Cells[i, j] != null && xlRange.Cells[i, j].Value2 != null) {
-                        
-                        row.Add(xlRange.Cells[i, j].Value2.ToString());
+                        string val = xlRange.Cells[i, j].Value2.ToString();
+                        if (i == 1)
+                        {
+                            title_row.Add(val);
+                        }
+                        else
+                        {
+                            row.Add(val);
+                        } 
                         //string n = (xlRange.Cells[i, j].Value2.ToString() + "\t");
                     }
                 }
-                Rows.Add(row);
+                if (i == 1)
+                {
+                    Title_Row.Add(title_row);
+                }
+                else { Rows.Add(row); }
             }
 
             //cleanup
