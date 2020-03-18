@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -19,6 +20,7 @@ namespace FileFormatConfigurator
         private string _ImportPath;
         private string _ExportPath;
         private Dictionary<string, string> _ExportFormat;
+        private string _ProcessingExportFormat;
         private List<string> OutputPathList = new List<string>() { };
         private List<string> ValidImportFilesPathList = new List<string> { };
         List<Exception> exceptions = new List<Exception>();
@@ -43,6 +45,7 @@ namespace FileFormatConfigurator
         private void btnImportBrowser_Click(object sender, EventArgs e)
         {
             var openImportFileDialog = new OpenFileDialog();
+            openImportFileDialog.Title = "Select the location";
             openImportFileDialog.Filter = Config.ImportFileFilter;
 
             if (openImportFileDialog.ShowDialog(this) != DialogResult.OK)
@@ -55,10 +58,10 @@ namespace FileFormatConfigurator
         private void btnExportBrowser_Click(object sender, EventArgs e)
         {
             var openExportFolderDialog = new OpenFileDialog();
-            openExportFolderDialog.Title = "Select the Machine-HotRunner Map File";
+            openExportFolderDialog.Title = "Select the location";
             if (openExportFolderDialog.ShowDialog(this) != DialogResult.OK)
             {
-                LogStatus("Invalid map file!", Status.WARNING);
+                LogStatus("Invalid folder location!", Status.WARNING);
             }
             tbExportPath.Text = openExportFolderDialog.FileName;
         }
@@ -77,30 +80,32 @@ namespace FileFormatConfigurator
             ProcessingStart(importPath, exportPath, _ExportFormat);
             CheckValidPath(label1.Text, _ImportPath);
             CheckValidPath(label2.Text, _ExportPath);
-            CheckValidFormat(_ImportPath, _ExportFormat);
-            if (followThrough) {
-                try
-                {
-                    var configurator = new Configurator();
-                    configurator.ErrorMessage += OnConfigurator_ErrorMessage;
-                    configurator.StatusMessage += OnConfigurator_StatusMessage;
-                    if(ValidImportFilesPathList.Count > 0 && OutputPathList.Count > 0)
-                    foreach (var validImportFilePath in ValidImportFilesPathList) {
-                            if (Path.GetFileName(validImportFilePath)[0] != '~')
+            foreach (var format in _ExportFormat.Keys)
+            {
+                _ProcessingExportFormat = format;
+                CheckValidFormat(_ImportPath, _ExportFormat);
+                if (followThrough) {
+                    try
+                    {
+                        var configurator = new Configurator();
+                        configurator.ErrorMessage += OnConfigurator_ErrorMessage;
+                        configurator.StatusMessage += OnConfigurator_StatusMessage;
+                        if (ValidImportFilesPathList.Count > 0) { 
+                            foreach (var validImportFilePath in ValidImportFilesPathList)
                             {
                                 configurator.Load(validImportFilePath, OutputPathList, Configurator.CommandLine);
                                 configurator.GenerateConfigurations(validImportFilePath, OutputPathList);
                             }
-                        
+                        }
+                    }
+                    catch (Exception e) { exceptions.Add(e); }
+                    finally
+                    {
+                        ProcessingEnd();
                     }
                 }
-                catch (Exception e) { exceptions.Add(e); }
-                finally
-                {
-                    ProcessingEnd();
-                }
+                else { LogStatus("Failed processing configurations.", Status.ERROR); }
             }
-            else { LogStatus("Failed processing configurations.", Status.ERROR); }
         }
         private void ProcessingStart(string importPath, string exportPath, Dictionary<string, string> _ExportFormat)
         {
@@ -136,53 +141,40 @@ namespace FileFormatConfigurator
             //import path
             if (inputPath == _ImportPath)
             {
-                //if import path is file path
-                if (!File.Exists(inputPath) && !Directory.Exists(inputPath)) {
+                if (!Directory.Exists(inputPath) && !File.Exists(inputPath))
+                {
                     PrintInvalidInput(name, inputPath);
                 }
-                //if import path is folder path
-                if (Directory.Exists(inputPath))
-                {
-                    //check directory path has valid format
-                    string[] fileEntries = Directory.GetFiles(inputPath);
-                    
-                    foreach (var file in fileEntries)
-                    {
-                        var filePath = Path.GetFullPath(file);
-                        var fileformat = Path.GetExtension(filePath);
-                        if (Regex.IsMatch(fileformat, Config.ImportFileFilterRange))
-                        {
-                            ValidImportFilesPathList.Add(filePath);
-                            LogStatus($"Valid processing file   : '{Path.GetFileName(file)}'", Status.SUCCESS);
-                        }
-                        else
-                        {
-                            LogStatus($"Invalid processing file : '{Path.GetFileName(file)}'", Status.WARNING);
-                        }
-                    }
-                    if (ValidImportFilesPathList.Count == 0)
-                    {
-                        followThrough = false;
-                        LogStatus($"{name} - '{inputPath}' : There is no valid file format.", Status.ERROR);
-                        LogStatus($"Valid file format : '{Config.ImportFileFilterRangeStr}'", Status.WARNING);
-                    }
-                }
+
             }
             else if (inputPath == _ExportPath)
             {
-                if(!Directory.Exists(inputPath)) { PrintInvalidInput(name, inputPath); }
+                if(!Directory.Exists(inputPath))
+                {
+                    PrintInvalidInput(name, inputPath);
+                }
             }
         }
         private void CheckValidFormat(string importPath, Dictionary<string, string> formatList)
         {
-            foreach (var format in formatList.Values)
+            string[] fileEntries = Directory.GetFiles(importPath);
+
+            foreach (var file in fileEntries)
             {
-                if (File.Exists(importPath)) { PrintCreateFiles(importPath, format); }
-                else {
-                    string[] fileEntries = Directory.GetFiles(importPath);
-                    foreach (string fileName in fileEntries) {
-                        PrintCreateFiles(fileName, format);
+                var filePath = Path.GetFullPath(file);
+                var fileformat = Path.GetExtension(filePath);
+                if (Regex.IsMatch(fileformat, Config.ImportFileFilterRange) && !fileformat.Contains(_ProcessingExportFormat.ToLower()))
+                {
+                    if (!Path.GetFileName(filePath).Contains("~"))
+                    {
+                        ValidImportFilesPathList.Add(filePath);
+                        PrintCreateFiles(filePath, _ProcessingExportFormat);
+                        LogStatus($"Valid processing file   : '{Path.GetFileName(file)}'", Status.SUCCESS);
                     }
+                }
+                else
+                {
+                    LogStatus($"Invalid processing file : '{Path.GetFileName(file)}'", Status.WARNING);
                 }
             }
             if (OutputPathList.Count == 0)
@@ -191,11 +183,15 @@ namespace FileFormatConfigurator
             }
         }
         private void PrintCreateFiles(string importPath, string format)
-        {            string path = importPath.Replace(Path.GetExtension(importPath), format);
-            if ((path != importPath) && (Regex.IsMatch(Path.GetExtension(importPath), Config.ImportFileFilterRange)))
+        {
+            string path = Path.Combine(_ExportPath, Path.GetFileNameWithoutExtension(importPath) + "." + format.ToLower());
+            if (path != importPath)
             {
-                OutputPathList.Add(path);
-                LogStatus($"Create File - '{path}'", Status.LOG);
+                if (Regex.IsMatch(Path.GetExtension(importPath), Config.ImportFileFilterRange))
+                {
+                    OutputPathList.Add(path);
+                    LogStatus($"Create File - '{path}'", Status.LOG);
+                }
             }
             else
             {
@@ -226,8 +222,21 @@ namespace FileFormatConfigurator
                 LogStatus("Done processing configurations.", Status.SUCCESS);
                 LogStatus($"Output Path     : '{Path.GetFullPath(_ExportPath)}'", Status.SUCCESS);
             }
+            KillSpecificExcelFileProcess(_ImportPath);
             GenerateLogFile();
             
+        }
+
+        private void KillSpecificExcelFileProcess(string importPath)
+        {
+            var processes = from p in Process.GetProcessesByName("EXCEL")
+                            select p;
+
+            foreach (var process in processes)
+            {
+                if (process.MainWindowTitle.Contains(importPath))
+                    process.Kill();
+            }
         }
         public void GenerateCheckedBox()
         {

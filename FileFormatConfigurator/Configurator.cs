@@ -39,7 +39,7 @@ namespace FileFormatConfigurator
                             {
                                 OnStatusMessage($"Starting Json Writer...");
                                 var jsonWriter = new JsonWriter(validImportFile, outputFilePathList, excelGenerator);
-                            
+                                
                                 OnStatusMessage($"Creating Json file : {outputPath}");
                             }
                         }

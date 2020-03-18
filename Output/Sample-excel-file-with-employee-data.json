@@ -1,0 +1,4744 @@
+{
+   "Sample-excel-file-with-employee-data" : [
+       {
+          "ID" : "1",
+          "Gender" : "m",
+          "Birth Date" : "19027",
+          "Jobcat" : "3",
+          "Salary" : "57000",
+          "Job Time" : "98",
+          "Prev Exp" : "144",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "2",
+          "Gender" : "m",
+          "Birth Date" : "21328",
+          "Jobcat" : "1",
+          "Salary" : "40200",
+          "Job Time" : "98",
+          "Prev Exp" : "36",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "3",
+          "Gender" : "f",
+          "Birth Date" : "10800",
+          "Jobcat" : "1",
+          "Salary" : "21450",
+          "Job Time" : "98",
+          "Prev Exp" : "381",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "4",
+          "Gender" : "f",
+          "Birth Date" : "17272",
+          "Jobcat" : "1",
+          "Salary" : "21900",
+          "Job Time" : "98",
+          "Prev Exp" : "190",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "5",
+          "Gender" : "m",
+          "Birth Date" : "20129",
+          "Jobcat" : "1",
+          "Salary" : "45000",
+          "Job Time" : "98",
+          "Prev Exp" : "138",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "6",
+          "Gender" : "m",
+          "Birth Date" : "21419",
+          "Jobcat" : "1",
+          "Salary" : "32100",
+          "Job Time" : "98",
+          "Prev Exp" : "67",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "7",
+          "Gender" : "m",
+          "Birth Date" : "20571",
+          "Jobcat" : "1",
+          "Salary" : "36000",
+          "Job Time" : "98",
+          "Prev Exp" : "114",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "8",
+          "Gender" : "f",
+          "Birth Date" : "24233",
+          "Jobcat" : "1",
+          "Salary" : "21900",
+          "Job Time" : "98",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "9",
+          "Gender" : "f",
+          "Birth Date" : "16825",
+          "Jobcat" : "1",
+          "Salary" : "27900",
+          "Job Time" : "98",
+          "Prev Exp" : "115",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "10",
+          "Gender" : "f",
+          "Birth Date" : "16846",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "98",
+          "Prev Exp" : "244",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "11",
+          "Gender" : "f",
+          "Birth Date" : "18301",
+          "Jobcat" : "1",
+          "Salary" : "30300",
+          "Job Time" : "98",
+          "Prev Exp" : "143",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "12",
+          "Gender" : "m",
+          "Birth Date" : "24118",
+          "Jobcat" : "1",
+          "Salary" : "28350",
+          "Job Time" : "98",
+          "Prev Exp" : "26",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "13",
+          "Gender" : "m",
+          "Birth Date" : "22114",
+          "Jobcat" : "1",
+          "Salary" : "27750",
+          "Job Time" : "98",
+          "Prev Exp" : "34",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "14",
+          "Gender" : "f",
+          "Birth Date" : "17955",
+          "Jobcat" : "1",
+          "Salary" : "35100",
+          "Job Time" : "98",
+          "Prev Exp" : "137",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "15",
+          "Gender" : "m",
+          "Birth Date" : "22887",
+          "Jobcat" : "1",
+          "Salary" : "27300",
+          "Job Time" : "97",
+          "Prev Exp" : "66",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "16",
+          "Gender" : "m",
+          "Birth Date" : "23698",
+          "Jobcat" : "1",
+          "Salary" : "40800",
+          "Job Time" : "97",
+          "Prev Exp" : "24",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "17",
+          "Gender" : "m",
+          "Birth Date" : "22845",
+          "Jobcat" : "1",
+          "Salary" : "46000",
+          "Job Time" : "97",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "18",
+          "Gender" : "m",
+          "Birth Date" : "20534",
+          "Jobcat" : "3",
+          "Salary" : "103750",
+          "Job Time" : "97",
+          "Prev Exp" : "70",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "19",
+          "Gender" : "m",
+          "Birth Date" : "22877",
+          "Jobcat" : "1",
+          "Salary" : "42300",
+          "Job Time" : "97",
+          "Prev Exp" : "103",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "20",
+          "Gender" : "f",
+          "Birth Date" : "14633",
+          "Jobcat" : "1",
+          "Salary" : "26250",
+          "Job Time" : "97",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "21",
+          "Gender" : "f",
+          "Birth Date" : "23061",
+          "Jobcat" : "1",
+          "Salary" : "38850",
+          "Job Time" : "97",
+          "Prev Exp" : "17",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "22",
+          "Gender" : "m",
+          "Birth Date" : "14878",
+          "Jobcat" : "1",
+          "Salary" : "21750",
+          "Job Time" : "97",
+          "Prev Exp" : "315",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "23",
+          "Gender" : "f",
+          "Birth Date" : "23816",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "97",
+          "Prev Exp" : "75",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "24",
+          "Gender" : "f",
+          "Birth Date" : "12140",
+          "Jobcat" : "1",
+          "Salary" : "16950",
+          "Job Time" : "97",
+          "Prev Exp" : "124",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "25",
+          "Gender" : "f",
+          "Birth Date" : "15523",
+          "Jobcat" : "1",
+          "Salary" : "21150",
+          "Job Time" : "97",
+          "Prev Exp" : "171",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "26",
+          "Gender" : "m",
+          "Birth Date" : "24419",
+          "Jobcat" : "1",
+          "Salary" : "31050",
+          "Job Time" : "96",
+          "Prev Exp" : "14",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "27",
+          "Gender" : "m",
+          "Birth Date" : "19802",
+          "Jobcat" : "3",
+          "Salary" : "60375",
+          "Job Time" : "96",
+          "Prev Exp" : "96",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "28",
+          "Gender" : "m",
+          "Birth Date" : "23112",
+          "Jobcat" : "1",
+          "Salary" : "32550",
+          "Job Time" : "96",
+          "Prev Exp" : "43",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "29",
+          "Gender" : "m",
+          "Birth Date" : "16099",
+          "Jobcat" : "3",
+          "Salary" : "135000",
+          "Job Time" : "96",
+          "Prev Exp" : "199",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "30",
+          "Gender" : "m",
+          "Birth Date" : "22541",
+          "Jobcat" : "1",
+          "Salary" : "31200",
+          "Job Time" : "96",
+          "Prev Exp" : "54",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "31",
+          "Gender" : "m",
+          "Birth Date" : "23431",
+          "Jobcat" : "1",
+          "Salary" : "36150",
+          "Job Time" : "96",
+          "Prev Exp" : "83",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "32",
+          "Gender" : "m",
+          "Birth Date" : "19752",
+          "Jobcat" : "3",
+          "Salary" : "110625",
+          "Job Time" : "96",
+          "Prev Exp" : "120",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "33",
+          "Gender" : "m",
+          "Birth Date" : "22358",
+          "Jobcat" : "1",
+          "Salary" : "42000",
+          "Job Time" : "96",
+          "Prev Exp" : "68",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "34",
+          "Gender" : "m",
+          "Birth Date" : "17931",
+          "Jobcat" : "3",
+          "Salary" : "92000",
+          "Job Time" : "96",
+          "Prev Exp" : "175",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "35",
+          "Gender" : "m",
+          "Birth Date" : "22515",
+          "Jobcat" : "3",
+          "Salary" : "81250",
+          "Job Time" : "96",
+          "Prev Exp" : "18",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "36",
+          "Gender" : "f",
+          "Birth Date" : "23230",
+          "Jobcat" : "1",
+          "Salary" : "31350",
+          "Job Time" : "96",
+          "Prev Exp" : "52",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "37",
+          "Gender" : "m",
+          "Birth Date" : "20006",
+          "Jobcat" : "1",
+          "Salary" : "29100",
+          "Job Time" : "96",
+          "Prev Exp" : "113",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "38",
+          "Gender" : "m",
+          "Birth Date" : "22763",
+          "Jobcat" : "1",
+          "Salary" : "31350",
+          "Job Time" : "96",
+          "Prev Exp" : "49",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "39",
+          "Gender" : "m",
+          "Birth Date" : "22089",
+          "Jobcat" : "1",
+          "Salary" : "36000",
+          "Job Time" : "96",
+          "Prev Exp" : "46",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "40",
+          "Gender" : "f",
+          "Birth Date" : "12294",
+          "Jobcat" : "1",
+          "Salary" : "19200",
+          "Job Time" : "96",
+          "Prev Exp" : "23",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "41",
+          "Gender" : "f",
+          "Birth Date" : "22358",
+          "Jobcat" : "1",
+          "Salary" : "23550",
+          "Job Time" : "96",
+          "Prev Exp" : "52",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "42",
+          "Gender" : "m",
+          "Birth Date" : "22182",
+          "Jobcat" : "1",
+          "Salary" : "35100",
+          "Job Time" : "95",
+          "Prev Exp" : "90",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "43",
+          "Gender" : "m",
+          "Birth Date" : "23394",
+          "Jobcat" : "1",
+          "Salary" : "23250",
+          "Job Time" : "95",
+          "Prev Exp" : "46",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "44",
+          "Gender" : "m",
+          "Birth Date" : "23177",
+          "Jobcat" : "1",
+          "Salary" : "29250",
+          "Job Time" : "95",
+          "Prev Exp" : "50",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "45",
+          "Gender" : "m",
+          "Birth Date" : "14094",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "95",
+          "Prev Exp" : "307",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "46",
+          "Gender" : "f",
+          "Birth Date" : "14933",
+          "Jobcat" : "1",
+          "Salary" : "22350",
+          "Job Time" : "95",
+          "Prev Exp" : "165",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "47",
+          "Gender" : "f",
+          "Birth Date" : "13998",
+          "Jobcat" : "1",
+          "Salary" : "30000",
+          "Job Time" : "95",
+          "Prev Exp" : "228",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "48",
+          "Gender" : "m",
+          "Birth Date" : "17325",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "94",
+          "Prev Exp" : "240",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "49",
+          "Gender" : "m",
+          "Birth Date" : "21444",
+          "Jobcat" : "1",
+          "Salary" : "34800",
+          "Job Time" : "94",
+          "Prev Exp" : "93",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "50",
+          "Gender" : "m",
+          "Birth Date" : "21955",
+          "Jobcat" : "3",
+          "Salary" : "60000",
+          "Job Time" : "94",
+          "Prev Exp" : "59",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "51",
+          "Gender" : "m",
+          "Birth Date" : "22835",
+          "Jobcat" : "1",
+          "Salary" : "35550",
+          "Job Time" : "94",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "52",
+          "Gender" : "m",
+          "Birth Date" : "23327",
+          "Jobcat" : "1",
+          "Salary" : "45150",
+          "Job Time" : "94",
+          "Prev Exp" : "40",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "53",
+          "Gender" : "m",
+          "Birth Date" : "19835",
+          "Jobcat" : "3",
+          "Salary" : "73750",
+          "Job Time" : "94",
+          "Prev Exp" : "56",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "54",
+          "Gender" : "m",
+          "Birth Date" : "11478",
+          "Jobcat" : "1",
+          "Salary" : "25050",
+          "Job Time" : "94",
+          "Prev Exp" : "444",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "55",
+          "Gender" : "m",
+          "Birth Date" : "22092",
+          "Jobcat" : "1",
+          "Salary" : "27000",
+          "Job Time" : "94",
+          "Prev Exp" : "120",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "56",
+          "Gender" : "m",
+          "Birth Date" : "22752",
+          "Jobcat" : "1",
+          "Salary" : "26850",
+          "Job Time" : "94",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "57",
+          "Gender" : "m",
+          "Birth Date" : "23116",
+          "Jobcat" : "1",
+          "Salary" : "33900",
+          "Job Time" : "94",
+          "Prev Exp" : "78",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "58",
+          "Gender" : "f",
+          "Birth Date" : "23695",
+          "Jobcat" : "1",
+          "Salary" : "26400",
+          "Job Time" : "94",
+          "Prev Exp" : "3",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "59",
+          "Gender" : "m",
+          "Birth Date" : "22408",
+          "Jobcat" : "1",
+          "Salary" : "28050",
+          "Job Time" : "94",
+          "Prev Exp" : "36",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "60",
+          "Gender" : "m",
+          "Birth Date" : "21597",
+          "Jobcat" : "1",
+          "Salary" : "30900",
+          "Job Time" : "94",
+          "Prev Exp" : "102",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "61",
+          "Gender" : "m",
+          "Birth Date" : "23495",
+          "Jobcat" : "1",
+          "Salary" : "22500",
+          "Job Time" : "94",
+          "Prev Exp" : "36",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "62",
+          "Gender" : "m",
+          "Birth Date" : "22845",
+          "Jobcat" : "3",
+          "Salary" : "48000",
+          "Job Time" : "93",
+          "Prev Exp" : "22",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "63",
+          "Gender" : "m",
+          "Birth Date" : "22513",
+          "Jobcat" : "3",
+          "Salary" : "55000",
+          "Job Time" : "93",
+          "Prev Exp" : "32",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "64",
+          "Gender" : "m",
+          "Birth Date" : "23282",
+          "Jobcat" : "3",
+          "Salary" : "53125",
+          "Job Time" : "93",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "65",
+          "Gender" : "m",
+          "Birth Date" : "23464",
+          "Jobcat" : "1",
+          "Salary" : "21900",
+          "Job Time" : "93",
+          "Prev Exp" : "41",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "66",
+          "Gender" : "m",
+          "Birth Date" : "22693",
+          "Jobcat" : "3",
+          "Salary" : "78125",
+          "Job Time" : "93",
+          "Prev Exp" : "7",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "67",
+          "Gender" : "m",
+          "Birth Date" : "23525",
+          "Jobcat" : "3",
+          "Salary" : "46000",
+          "Job Time" : "93",
+          "Prev Exp" : "35",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "68",
+          "Gender" : "m",
+          "Birth Date" : "23136",
+          "Jobcat" : "3",
+          "Salary" : "45250",
+          "Job Time" : "93",
+          "Prev Exp" : "36",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "69",
+          "Gender" : "m",
+          "Birth Date" : "22090",
+          "Jobcat" : "3",
+          "Salary" : "56550",
+          "Job Time" : "93",
+          "Prev Exp" : "34",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "70",
+          "Gender" : "m",
+          "Birth Date" : "22685",
+          "Jobcat" : "1",
+          "Salary" : "41100",
+          "Job Time" : "93",
+          "Prev Exp" : "27",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "71",
+          "Gender" : "m",
+          "Birth Date" : "17771",
+          "Jobcat" : "3",
+          "Salary" : "82500",
+          "Job Time" : "93",
+          "Prev Exp" : "207",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "72",
+          "Gender" : "f",
+          "Birth Date" : "23383",
+          "Jobcat" : "1",
+          "Salary" : "54000",
+          "Job Time" : "93",
+          "Prev Exp" : "11",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "73",
+          "Gender" : "f",
+          "Birth Date" : "24877",
+          "Jobcat" : "1",
+          "Salary" : "26400",
+          "Job Time" : "93",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "74",
+          "Gender" : "f",
+          "Birth Date" : "12172",
+          "Jobcat" : "1",
+          "Salary" : "33900",
+          "Job Time" : "93",
+          "Prev Exp" : "192",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "75",
+          "Gender" : "f",
+          "Birth Date" : "23966",
+          "Jobcat" : "1",
+          "Salary" : "24150",
+          "Job Time" : "93",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "76",
+          "Gender" : "f",
+          "Birth Date" : "24718",
+          "Jobcat" : "1",
+          "Salary" : "29250",
+          "Job Time" : "93",
+          "Prev Exp" : "11",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "77",
+          "Gender" : "f",
+          "Birth Date" : "25090",
+          "Jobcat" : "1",
+          "Salary" : "27600",
+          "Job Time" : "93",
+          "Prev Exp" : "6",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "78",
+          "Gender" : "f",
+          "Birth Date" : "25070",
+          "Jobcat" : "1",
+          "Salary" : "22950",
+          "Job Time" : "93",
+          "Prev Exp" : "10",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "79",
+          "Gender" : "f",
+          "Birth Date" : "22669",
+          "Jobcat" : "1",
+          "Salary" : "34800",
+          "Job Time" : "93",
+          "Prev Exp" : "8",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "80",
+          "Gender" : "f",
+          "Birth Date" : "22426",
+          "Jobcat" : "1",
+          "Salary" : "51000",
+          "Job Time" : "93",
+          "Prev Exp" : "22",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "81",
+          "Gender" : "f",
+          "Birth Date" : "24909",
+          "Jobcat" : "1",
+          "Salary" : "24300",
+          "Job Time" : "93",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "82",
+          "Gender" : "f",
+          "Birth Date" : "17407",
+          "Jobcat" : "1",
+          "Salary" : "24750",
+          "Job Time" : "93",
+          "Prev Exp" : "193",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "83",
+          "Gender" : "f",
+          "Birth Date" : "24757",
+          "Jobcat" : "1",
+          "Salary" : "22950",
+          "Job Time" : "93",
+          "Prev Exp" : "0",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "84",
+          "Gender" : "f",
+          "Birth Date" : "24543",
+          "Jobcat" : "1",
+          "Salary" : "25050",
+          "Job Time" : "93",
+          "Prev Exp" : "8",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "85",
+          "Gender" : "m",
+          "Birth Date" : "22745",
+          "Jobcat" : "1",
+          "Salary" : "25950",
+          "Job Time" : "92",
+          "Prev Exp" : "42",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "86",
+          "Gender" : "m",
+          "Birth Date" : "22518",
+          "Jobcat" : "1",
+          "Salary" : "31650",
+          "Job Time" : "92",
+          "Prev Exp" : "64",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "87",
+          "Gender" : "m",
+          "Birth Date" : "21843",
+          "Jobcat" : "1",
+          "Salary" : "24150",
+          "Job Time" : "92",
+          "Prev Exp" : "130",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "88",
+          "Gender" : "m",
+          "Birth Date" : "22687",
+          "Jobcat" : "3",
+          "Salary" : "72500",
+          "Job Time" : "92",
+          "Prev Exp" : "10",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "89",
+          "Gender" : "m",
+          "Birth Date" : "22456",
+          "Jobcat" : "3",
+          "Salary" : "68750",
+          "Job Time" : "92",
+          "Prev Exp" : "8",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "90",
+          "Gender" : "f",
+          "Birth Date" : "13938",
+          "Jobcat" : "1",
+          "Salary" : "16200",
+          "Job Time" : "92",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "91",
+          "Gender" : "f",
+          "Birth Date" : "24780",
+          "Jobcat" : "1",
+          "Salary" : "20100",
+          "Job Time" : "92",
+          "Prev Exp" : "24",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "92",
+          "Gender" : "f",
+          "Birth Date" : "25014",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "92",
+          "Prev Exp" : "6",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "93",
+          "Gender" : "f",
+          "Birth Date" : "24902",
+          "Jobcat" : "1",
+          "Salary" : "25950",
+          "Job Time" : "92",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "94",
+          "Gender" : "f",
+          "Birth Date" : "18479",
+          "Jobcat" : "1",
+          "Salary" : "24600",
+          "Job Time" : "92",
+          "Prev Exp" : "44",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "95",
+          "Gender" : "f",
+          "Birth Date" : "25058",
+          "Jobcat" : "1",
+          "Salary" : "28500",
+          "Job Time" : "92",
+          "Prev Exp" : "6",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "96",
+          "Gender" : "m",
+          "Birth Date" : "12329",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "92",
+          "Prev Exp" : "432",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "97",
+          "Gender" : "m",
+          "Birth Date" : "19377",
+          "Jobcat" : "1",
+          "Salary" : "40200",
+          "Job Time" : "92",
+          "Prev Exp" : "168",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "98",
+          "Gender" : "m",
+          "Birth Date" : "20592",
+          "Jobcat" : "2",
+          "Salary" : "30000",
+          "Job Time" : "92",
+          "Prev Exp" : "144",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "99",
+          "Gender" : "f",
+          "Birth Date" : "25026",
+          "Jobcat" : "1",
+          "Salary" : "22050",
+          "Job Time" : "92",
+          "Prev Exp" : "5",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "100",
+          "Gender" : "m",
+          "Birth Date" : "23309",
+          "Jobcat" : "3",
+          "Salary" : "78250",
+          "Job Time" : "91",
+          "Prev Exp" : "47",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "101",
+          "Gender" : "m",
+          "Birth Date" : "21989",
+          "Jobcat" : "3",
+          "Salary" : "60625",
+          "Job Time" : "91",
+          "Prev Exp" : "44",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "102",
+          "Gender" : "m",
+          "Birth Date" : "23098",
+          "Jobcat" : "1",
+          "Salary" : "39900",
+          "Job Time" : "91",
+          "Prev Exp" : "59",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "103",
+          "Gender" : "m",
+          "Birth Date" : "21626",
+          "Jobcat" : "3",
+          "Salary" : "97000",
+          "Job Time" : "91",
+          "Prev Exp" : "68",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "104",
+          "Gender" : "m",
+          "Birth Date" : "22955",
+          "Jobcat" : "1",
+          "Salary" : "27450",
+          "Job Time" : "91",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "105",
+          "Gender" : "m",
+          "Birth Date" : "24173",
+          "Jobcat" : "1",
+          "Salary" : "31650",
+          "Job Time" : "91",
+          "Prev Exp" : "18",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "106",
+          "Gender" : "m",
+          "Birth Date" : "22862",
+          "Jobcat" : "3",
+          "Salary" : "91250",
+          "Job Time" : "91",
+          "Prev Exp" : "23",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "107",
+          "Gender" : "f",
+          "Birth Date" : "22144",
+          "Jobcat" : "1",
+          "Salary" : "25200",
+          "Job Time" : "91",
+          "Prev Exp" : "83",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "108",
+          "Gender" : "f",
+          "Birth Date" : "11155",
+          "Jobcat" : "1",
+          "Salary" : "21000",
+          "Job Time" : "91",
+          "Prev Exp" : "108",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "109",
+          "Gender" : "m",
+          "Birth Date" : "23325",
+          "Jobcat" : "1",
+          "Salary" : "30450",
+          "Job Time" : "91",
+          "Prev Exp" : "49",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "110",
+          "Gender" : "m",
+          "Birth Date" : "19296",
+          "Jobcat" : "1",
+          "Salary" : "28350",
+          "Job Time" : "91",
+          "Prev Exp" : "151",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "111",
+          "Gender" : "m",
+          "Birth Date" : "14942",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "91",
+          "Prev Exp" : "314",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "112",
+          "Gender" : "m",
+          "Birth Date" : "17705",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "91",
+          "Prev Exp" : "240",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "113",
+          "Gender" : "m",
+          "Birth Date" : "21829",
+          "Jobcat" : "3",
+          "Salary" : "54875",
+          "Job Time" : "90",
+          "Prev Exp" : "68",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "114",
+          "Gender" : "m",
+          "Birth Date" : "22518",
+          "Jobcat" : "1",
+          "Salary" : "37800",
+          "Job Time" : "90",
+          "Prev Exp" : "60",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "115",
+          "Gender" : "m",
+          "Birth Date" : "22413",
+          "Jobcat" : "1",
+          "Salary" : "33450",
+          "Job Time" : "90",
+          "Prev Exp" : "85",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "116",
+          "Gender" : "m",
+          "Birth Date" : "22806",
+          "Jobcat" : "1",
+          "Salary" : "30300",
+          "Job Time" : "90",
+          "Prev Exp" : "16",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "117",
+          "Gender" : "f",
+          "Birth Date" : "11702",
+          "Jobcat" : "1",
+          "Salary" : "31500",
+          "Job Time" : "90",
+          "Prev Exp" : "205",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "118",
+          "Gender" : "f",
+          "Birth Date" : "23440",
+          "Jobcat" : "1",
+          "Salary" : "31650",
+          "Job Time" : "90",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "119",
+          "Gender" : "f",
+          "Birth Date" : "23215",
+          "Jobcat" : "1",
+          "Salary" : "25200",
+          "Job Time" : "90",
+          "Prev Exp" : "55",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "120",
+          "Gender" : "f",
+          "Birth Date" : "23693",
+          "Jobcat" : "3",
+          "Salary" : "37800",
+          "Job Time" : "90",
+          "Prev Exp" : "7",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "121",
+          "Gender" : "f",
+          "Birth Date" : "13368",
+          "Jobcat" : "1",
+          "Salary" : "18750",
+          "Job Time" : "90",
+          "Prev Exp" : "54",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "122",
+          "Gender" : "f",
+          "Birth Date" : "24011",
+          "Jobcat" : "1",
+          "Salary" : "32550",
+          "Job Time" : "90",
+          "Prev Exp" : "22",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "123",
+          "Gender" : "f",
+          "Birth Date" : "18012",
+          "Jobcat" : "1",
+          "Salary" : "33300",
+          "Job Time" : "90",
+          "Prev Exp" : "3",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "124",
+          "Gender" : "f",
+          "Birth Date" : "23160",
+          "Jobcat" : "1",
+          "Salary" : "38550",
+          "Job Time" : "90",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "125",
+          "Gender" : "m",
+          "Birth Date" : "20673",
+          "Jobcat" : "1",
+          "Salary" : "27450",
+          "Job Time" : "90",
+          "Prev Exp" : "173",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "126",
+          "Gender" : "m",
+          "Birth Date" : "18649",
+          "Jobcat" : "2",
+          "Salary" : "24300",
+          "Job Time" : "90",
+          "Prev Exp" : "191",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "127",
+          "Gender" : "m",
+          "Birth Date" : "18507",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "90",
+          "Prev Exp" : "209",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "128",
+          "Gender" : "f",
+          "Birth Date" : "17008",
+          "Jobcat" : "1",
+          "Salary" : "19650",
+          "Job Time" : "90",
+          "Prev Exp" : "229",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "129",
+          "Gender" : "m",
+          "Birth Date" : "21749",
+          "Jobcat" : "3",
+          "Salary" : "68750",
+          "Job Time" : "89",
+          "Prev Exp" : "38",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "130",
+          "Gender" : "m",
+          "Birth Date" : "21434",
+          "Jobcat" : "3",
+          "Salary" : "59375",
+          "Job Time" : "89",
+          "Prev Exp" : "6",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "131",
+          "Gender" : "m",
+          "Birth Date" : "22685",
+          "Jobcat" : "1",
+          "Salary" : "31500",
+          "Job Time" : "89",
+          "Prev Exp" : "22",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "132",
+          "Gender" : "m",
+          "Birth Date" : "19496",
+          "Jobcat" : "1",
+          "Salary" : "27300",
+          "Job Time" : "89",
+          "Prev Exp" : "175",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "133",
+          "Gender" : "m",
+          "Birth Date" : "21805",
+          "Jobcat" : "1",
+          "Salary" : "27000",
+          "Job Time" : "89",
+          "Prev Exp" : "87",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "134",
+          "Gender" : "f",
+          "Birth Date" : "15290",
+          "Jobcat" : "3",
+          "Salary" : "41550",
+          "Job Time" : "89",
+          "Prev Exp" : "285",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "135",
+          "Gender" : "f",
+          "Birth Date" : "24980",
+          "Jobcat" : "1",
+          "Salary" : "26250",
+          "Job Time" : "89",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "136",
+          "Gender" : "m",
+          "Birth Date" : "14482",
+          "Jobcat" : "1",
+          "Salary" : "22200",
+          "Job Time" : "88",
+          "Prev Exp" : "324",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "137",
+          "Gender" : "m",
+          "Birth Date" : "13708",
+          "Jobcat" : "3",
+          "Salary" : "65000",
+          "Job Time" : "88",
+          "Prev Exp" : "264",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "138",
+          "Gender" : "m",
+          "Birth Date" : "17176",
+          "Jobcat" : "1",
+          "Salary" : "30900",
+          "Job Time" : "88",
+          "Prev Exp" : "252",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "139",
+          "Gender" : "f",
+          "Birth Date" : "11492",
+          "Jobcat" : "1",
+          "Salary" : "20100",
+          "Job Time" : "88",
+          "Prev Exp" : "90",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "140",
+          "Gender" : "f",
+          "Birth Date" : "23837",
+          "Jobcat" : "1",
+          "Salary" : "22350",
+          "Job Time" : "88",
+          "Prev Exp" : "26",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "141",
+          "Gender" : "f",
+          "Birth Date" : "24272",
+          "Jobcat" : "1",
+          "Salary" : "35550",
+          "Job Time" : "88",
+          "Prev Exp" : "32",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "142",
+          "Gender" : "f",
+          "Birth Date" : "24424",
+          "Jobcat" : "1",
+          "Salary" : "28500",
+          "Job Time" : "88",
+          "Prev Exp" : "34",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "143",
+          "Gender" : "f",
+          "Birth Date" : "14481",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "88",
+          "Prev Exp" : "107",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "144",
+          "Gender" : "f",
+          "Birth Date" : "11563",
+          "Jobcat" : "1",
+          "Salary" : "16650",
+          "Job Time" : "88",
+          "Prev Exp" : "412",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "145",
+          "Gender" : "m",
+          "Birth Date" : "23391",
+          "Jobcat" : "1",
+          "Salary" : "26700",
+          "Job Time" : "88",
+          "Prev Exp" : "38",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "146",
+          "Gender" : "m",
+          "Birth Date" : "18630",
+          "Jobcat" : "1",
+          "Salary" : "43950",
+          "Job Time" : "88",
+          "Prev Exp" : "182",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "147",
+          "Gender" : "m",
+          "Birth Date" : "13404",
+          "Jobcat" : "1",
+          "Salary" : "23700",
+          "Job Time" : "88",
+          "Prev Exp" : "359",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "148",
+          "Gender" : "f",
+          "Birth Date" : "21828",
+          "Jobcat" : "1",
+          "Salary" : "26550",
+          "Job Time" : "88",
+          "Prev Exp" : "61",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "149",
+          "Gender" : "m",
+          "Birth Date" : "22825",
+          "Jobcat" : "1",
+          "Salary" : "27600",
+          "Job Time" : "87",
+          "Prev Exp" : "75",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "150",
+          "Gender" : "m",
+          "Birth Date" : "19788",
+          "Jobcat" : "1",
+          "Salary" : "25800",
+          "Job Time" : "87",
+          "Prev Exp" : "143",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "151",
+          "Gender" : "m",
+          "Birth Date" : "19952",
+          "Jobcat" : "3",
+          "Salary" : "42300",
+          "Job Time" : "87",
+          "Prev Exp" : "126",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "152",
+          "Gender" : "m",
+          "Birth Date" : "10716",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "87",
+          "Prev Exp" : "451",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "153",
+          "Gender" : "f",
+          "Birth Date" : "24605",
+          "Jobcat" : "1",
+          "Salary" : "26700",
+          "Job Time" : "87",
+          "Prev Exp" : "18",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "154",
+          "Gender" : "f",
+          "Birth Date" : "14769",
+          "Jobcat" : "1",
+          "Salary" : "20850",
+          "Job Time" : "87",
+          "Prev Exp" : "163",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "155",
+          "Gender" : "m",
+          "Birth Date" : "23076",
+          "Jobcat" : "1",
+          "Salary" : "35250",
+          "Job Time" : "87",
+          "Prev Exp" : "54",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "156",
+          "Gender" : "m",
+          "Birth Date" : "23023",
+          "Jobcat" : "1",
+          "Salary" : "26700",
+          "Job Time" : "87",
+          "Prev Exp" : "56",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "157",
+          "Gender" : "f",
+          "Birth Date" : "24655",
+          "Jobcat" : "1",
+          "Salary" : "26550",
+          "Job Time" : "87",
+          "Prev Exp" : "11",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "158",
+          "Gender" : "f",
+          "Birth Date" : "23640",
+          "Jobcat" : "1",
+          "Salary" : "27750",
+          "Job Time" : "87",
+          "Prev Exp" : "11",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "159",
+          "Gender" : "f",
+          "Birth Date" : "18641",
+          "Jobcat" : "1",
+          "Salary" : "25050",
+          "Job Time" : "87",
+          "Prev Exp" : "123",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "160",
+          "Gender" : "m",
+          "Birth Date" : "18867",
+          "Jobcat" : "3",
+          "Salary" : "66000",
+          "Job Time" : "86",
+          "Prev Exp" : "150",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "161",
+          "Gender" : "m",
+          "Birth Date" : "23053",
+          "Jobcat" : "1",
+          "Salary" : "52650",
+          "Job Time" : "86",
+          "Prev Exp" : "20",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "162",
+          "Gender" : "m",
+          "Birth Date" : "22426",
+          "Jobcat" : "3",
+          "Salary" : "45625",
+          "Job Time" : "86",
+          "Prev Exp" : "60",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "163",
+          "Gender" : "m",
+          "Birth Date" : "24056",
+          "Jobcat" : "1",
+          "Salary" : "30900",
+          "Job Time" : "86",
+          "Prev Exp" : "25",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "164",
+          "Gender" : "f",
+          "Birth Date" : "23967",
+          "Jobcat" : "1",
+          "Salary" : "29400",
+          "Job Time" : "86",
+          "Prev Exp" : "24",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "165",
+          "Gender" : "f",
+          "Birth Date" : "24226",
+          "Jobcat" : "1",
+          "Salary" : "33300",
+          "Job Time" : "86",
+          "Prev Exp" : "24",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "166",
+          "Gender" : "f",
+          "Birth Date" : "15534",
+          "Jobcat" : "1",
+          "Salary" : "21900",
+          "Job Time" : "86",
+          "Prev Exp" : "156",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "167",
+          "Gender" : "f",
+          "Birth Date" : "11927",
+          "Jobcat" : "1",
+          "Salary" : "18150",
+          "Job Time" : "86",
+          "Prev Exp" : "72",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "168",
+          "Gender" : "f",
+          "Birth Date" : "22759",
+          "Jobcat" : "3",
+          "Salary" : "46875",
+          "Job Time" : "86",
+          "Prev Exp" : "19",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "169",
+          "Gender" : "m",
+          "Birth Date" : "23885",
+          "Jobcat" : "1",
+          "Salary" : "25500",
+          "Job Time" : "86",
+          "Prev Exp" : "37",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "170",
+          "Gender" : "m",
+          "Birth Date" : "23541",
+          "Jobcat" : "1",
+          "Salary" : "26550",
+          "Job Time" : "86",
+          "Prev Exp" : "38",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "171",
+          "Gender" : "m",
+          "Birth Date" : "10979",
+          "Jobcat" : "1",
+          "Salary" : "26700",
+          "Job Time" : "86",
+          "Prev Exp" : "367",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "172",
+          "Gender" : "f",
+          "Birth Date" : "19523",
+          "Jobcat" : "1",
+          "Salary" : "29850",
+          "Job Time" : "86",
+          "Prev Exp" : "79",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "173",
+          "Gender" : "m",
+          "Birth Date" : "18278",
+          "Jobcat" : "3",
+          "Salary" : "69250",
+          "Job Time" : "85",
+          "Prev Exp" : "134",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "174",
+          "Gender" : "m",
+          "Birth Date" : "12791",
+          "Jobcat" : "2",
+          "Salary" : "31950",
+          "Job Time" : "85",
+          "Prev Exp" : "438",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "175",
+          "Gender" : "m",
+          "Birth Date" : "13888",
+          "Jobcat" : "1",
+          "Salary" : "26250",
+          "Job Time" : "85",
+          "Prev Exp" : "171",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "176",
+          "Gender" : "f",
+          "Birth Date" : "22924",
+          "Jobcat" : "1",
+          "Salary" : "35700",
+          "Job Time" : "85",
+          "Prev Exp" : "19",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "177",
+          "Gender" : "f",
+          "Birth Date" : "22869",
+          "Jobcat" : "1",
+          "Salary" : "28500",
+          "Job Time" : "85",
+          "Prev Exp" : "69",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "178",
+          "Gender" : "f",
+          "Birth Date" : "13897",
+          "Jobcat" : "1",
+          "Salary" : "17100",
+          "Job Time" : "85",
+          "Prev Exp" : "72",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "179",
+          "Gender" : "m",
+          "Birth Date" : "23761",
+          "Jobcat" : "1",
+          "Salary" : "25200",
+          "Job Time" : "85",
+          "Prev Exp" : "29",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "180",
+          "Gender" : "f",
+          "Birth Date" : "21938",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "85",
+          "Prev Exp" : "59",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "181",
+          "Gender" : "f",
+          "Birth Date" : "14249",
+          "Jobcat" : "1",
+          "Salary" : "27450",
+          "Job Time" : "85",
+          "Prev Exp" : "101",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "182",
+          "Gender" : "f",
+          "Birth Date" : "15773",
+          "Jobcat" : "1",
+          "Salary" : "18450",
+          "Job Time" : "85",
+          "Prev Exp" : "228",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "183",
+          "Gender" : "m",
+          "Birth Date" : "21976",
+          "Jobcat" : "1",
+          "Salary" : "39300",
+          "Job Time" : "84",
+          "Prev Exp" : "72",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "184",
+          "Gender" : "m",
+          "Birth Date" : "23686",
+          "Jobcat" : "1",
+          "Salary" : "38850",
+          "Job Time" : "84",
+          "Prev Exp" : "53",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "185",
+          "Gender" : "m",
+          "Birth Date" : "11198",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "84",
+          "Prev Exp" : "380",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "186",
+          "Gender" : "m",
+          "Birth Date" : "23564",
+          "Jobcat" : "1",
+          "Salary" : "37500",
+          "Job Time" : "84",
+          "Prev Exp" : "33",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "187",
+          "Gender" : "m",
+          "Birth Date" : "23221",
+          "Jobcat" : "3",
+          "Salary" : "58750",
+          "Job Time" : "84",
+          "Prev Exp" : "13",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "188",
+          "Gender" : "f",
+          "Birth Date" : "12454",
+          "Jobcat" : "1",
+          "Salary" : "34500",
+          "Job Time" : "84",
+          "Prev Exp" : "208",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "189",
+          "Gender" : "f",
+          "Birth Date" : "18350",
+          "Jobcat" : "1",
+          "Salary" : "36000",
+          "Job Time" : "84",
+          "Prev Exp" : "240",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "190",
+          "Gender" : "f",
+          "Birth Date" : "12008",
+          "Jobcat" : "1",
+          "Salary" : "29100",
+          "Job Time" : "84",
+          "Prev Exp" : "35",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "191",
+          "Gender" : "f",
+          "Birth Date" : "11619",
+          "Jobcat" : "1",
+          "Salary" : "16500",
+          "Job Time" : "84",
+          "Prev Exp" : "288",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "192",
+          "Gender" : "m",
+          "Birth Date" : "18180",
+          "Jobcat" : "1",
+          "Salary" : "19650",
+          "Job Time" : "84",
+          "Prev Exp" : "180",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "193",
+          "Gender" : "f",
+          "Birth Date" : "24310",
+          "Jobcat" : "1",
+          "Salary" : "24750",
+          "Job Time" : "84",
+          "Prev Exp" : "41",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "194",
+          "Gender" : "f",
+          "Birth Date" : "13980",
+          "Jobcat" : "1",
+          "Salary" : "27150",
+          "Job Time" : "84",
+          "Prev Exp" : "231",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "195",
+          "Gender" : "f",
+          "Birth Date" : "20399",
+          "Jobcat" : "1",
+          "Salary" : "26400",
+          "Job Time" : "84",
+          "Prev Exp" : "36",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "196",
+          "Gender" : "f",
+          "Birth Date" : "16864",
+          "Jobcat" : "1",
+          "Salary" : "23100",
+          "Job Time" : "84",
+          "Prev Exp" : "214",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "197",
+          "Gender" : "m",
+          "Birth Date" : "22920",
+          "Jobcat" : "3",
+          "Salary" : "54900",
+          "Job Time" : "83",
+          "Prev Exp" : "49",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "198",
+          "Gender" : "m",
+          "Birth Date" : "19070",
+          "Jobcat" : "3",
+          "Salary" : "70875",
+          "Job Time" : "83",
+          "Prev Exp" : "156",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "199",
+          "Gender" : "m",
+          "Birth Date" : "21218",
+          "Jobcat" : "3",
+          "Salary" : "51250",
+          "Job Time" : "83",
+          "Prev Exp" : "69",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "200",
+          "Gender" : "m",
+          "Birth Date" : "23055",
+          "Jobcat" : "3",
+          "Salary" : "67500",
+          "Job Time" : "83",
+          "Prev Exp" : "9",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "201",
+          "Gender" : "m",
+          "Birth Date" : "20217",
+          "Jobcat" : "1",
+          "Salary" : "29340",
+          "Job Time" : "83",
+          "Prev Exp" : "150",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "202",
+          "Gender" : "m",
+          "Birth Date" : "23087",
+          "Jobcat" : "1",
+          "Salary" : "39600",
+          "Job Time" : "83",
+          "Prev Exp" : "47",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "203",
+          "Gender" : "m",
+          "Birth Date" : "23453",
+          "Jobcat" : "1",
+          "Salary" : "29100",
+          "Job Time" : "83",
+          "Prev Exp" : "50",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "204",
+          "Gender" : "m",
+          "Birth Date" : "22210",
+          "Jobcat" : "1",
+          "Salary" : "33150",
+          "Job Time" : "83",
+          "Prev Exp" : "69",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "205",
+          "Gender" : "m",
+          "Birth Date" : "16245",
+          "Jobcat" : "3",
+          "Salary" : "66750",
+          "Job Time" : "83",
+          "Prev Exp" : "258",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "206",
+          "Gender" : "m",
+          "Birth Date" : "15848",
+          "Jobcat" : "2",
+          "Salary" : "33750",
+          "Job Time" : "83",
+          "Prev Exp" : "284",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "207",
+          "Gender" : "m",
+          "Birth Date" : "21596",
+          "Jobcat" : "1",
+          "Salary" : "27300",
+          "Job Time" : "83",
+          "Prev Exp" : "91",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "208",
+          "Gender" : "f",
+          "Birth Date" : "25170",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "83",
+          "Prev Exp" : "16",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "209",
+          "Gender" : "f",
+          "Birth Date" : "12433",
+          "Jobcat" : "1",
+          "Salary" : "19800",
+          "Job Time" : "83",
+          "Prev Exp" : "75",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "210",
+          "Gender" : "m",
+          "Birth Date" : "18022",
+          "Jobcat" : "1",
+          "Salary" : "30600",
+          "Job Time" : "83",
+          "Prev Exp" : "216",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "211",
+          "Gender" : "m",
+          "Birth Date" : "18575",
+          "Jobcat" : "1",
+          "Salary" : "28950",
+          "Job Time" : "83",
+          "Prev Exp" : "108",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "212",
+          "Gender" : "m",
+          "Birth Date" : "23876",
+          "Jobcat" : "1",
+          "Salary" : "38400",
+          "Job Time" : "83",
+          "Prev Exp" : "64",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "213",
+          "Gender" : "m",
+          "Birth Date" : "16730",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "83",
+          "Prev Exp" : "302",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "214",
+          "Gender" : "f",
+          "Birth Date" : "25094",
+          "Jobcat" : "1",
+          "Salary" : "20400",
+          "Job Time" : "83",
+          "Prev Exp" : "9",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "215",
+          "Gender" : "f",
+          "Birth Date" : "25096",
+          "Jobcat" : "1",
+          "Salary" : "19200",
+          "Job Time" : "83",
+          "Prev Exp" : "7",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "216",
+          "Gender" : "m",
+          "Birth Date" : "23513",
+          "Jobcat" : "1",
+          "Salary" : "30150",
+          "Job Time" : "82",
+          "Prev Exp" : "72",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "217",
+          "Gender" : "m",
+          "Birth Date" : "17972",
+          "Jobcat" : "1",
+          "Salary" : "34620",
+          "Job Time" : "82",
+          "Prev Exp" : "149",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "218",
+          "Gender" : "m",
+          "Birth Date" : "23457",
+          "Jobcat" : "1",
+          "Salary" : "80000",
+          "Job Time" : "82",
+          "Prev Exp" : "34",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "219",
+          "Gender" : "m",
+          "Birth Date" : "23044",
+          "Jobcat" : "1",
+          "Salary" : "25350",
+          "Job Time" : "82",
+          "Prev Exp" : "32",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "220",
+          "Gender" : "m",
+          "Birth Date" : "23240",
+          "Jobcat" : "1",
+          "Salary" : "29850",
+          "Job Time" : "82",
+          "Prev Exp" : "85",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "221",
+          "Gender" : "f",
+          "Birth Date" : "17309",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "82",
+          "Prev Exp" : "97",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "222",
+          "Gender" : "f",
+          "Birth Date" : "13042",
+          "Jobcat" : "1",
+          "Salary" : "27750",
+          "Job Time" : "82",
+          "Prev Exp" : "265",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "223",
+          "Gender" : "f",
+          "Birth Date" : "15414",
+          "Jobcat" : "1",
+          "Salary" : "22350",
+          "Job Time" : "82",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "224",
+          "Gender" : "f",
+          "Birth Date" : "12743",
+          "Jobcat" : "1",
+          "Salary" : "16200",
+          "Job Time" : "82",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "225",
+          "Gender" : "f",
+          "Birth Date" : "24758",
+          "Jobcat" : "1",
+          "Salary" : "21900",
+          "Job Time" : "82",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "226",
+          "Gender" : "f",
+          "Birth Date" : "23549",
+          "Jobcat" : "1",
+          "Salary" : "23250",
+          "Job Time" : "82",
+          "Prev Exp" : "4",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "227",
+          "Gender" : "f",
+          "Birth Date" : "23940",
+          "Jobcat" : "1",
+          "Salary" : "33900",
+          "Job Time" : "82",
+          "Prev Exp" : "11",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "228",
+          "Gender" : "f",
+          "Birth Date" : "23275",
+          "Jobcat" : "1",
+          "Salary" : "25650",
+          "Job Time" : "82",
+          "Prev Exp" : "51",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "229",
+          "Gender" : "f",
+          "Birth Date" : "14844",
+          "Jobcat" : "1",
+          "Salary" : "17250",
+          "Job Time" : "82",
+          "Prev Exp" : "358",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "230",
+          "Gender" : "m",
+          "Birth Date" : "12454",
+          "Jobcat" : "1",
+          "Salary" : "22500",
+          "Job Time" : "82",
+          "Prev Exp" : "371",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "231",
+          "Gender" : "m",
+          "Birth Date" : "23751",
+          "Jobcat" : "3",
+          "Salary" : "40200",
+          "Job Time" : "81",
+          "Prev Exp" : "3",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "232",
+          "Gender" : "m",
+          "Birth Date" : "23267",
+          "Jobcat" : "3",
+          "Salary" : "55500",
+          "Job Time" : "81",
+          "Prev Exp" : "62",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "233",
+          "Gender" : "m",
+          "Birth Date" : "23213",
+          "Jobcat" : "1",
+          "Salary" : "26550",
+          "Job Time" : "81",
+          "Prev Exp" : "52",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "234",
+          "Gender" : "m",
+          "Birth Date" : "22232",
+          "Jobcat" : "1",
+          "Salary" : "50550",
+          "Job Time" : "81",
+          "Prev Exp" : "44",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "235",
+          "Gender" : "m",
+          "Birth Date" : "22900",
+          "Jobcat" : "3",
+          "Salary" : "75000",
+          "Job Time" : "81",
+          "Prev Exp" : "13",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "236",
+          "Gender" : "f",
+          "Birth Date" : "25325",
+          "Jobcat" : "1",
+          "Salary" : "27450",
+          "Job Time" : "81",
+          "Prev Exp" : "9",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "237",
+          "Gender" : "f",
+          "Birth Date" : "25358",
+          "Jobcat" : "1",
+          "Salary" : "22650",
+          "Job Time" : "81",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "238",
+          "Gender" : "f",
+          "Birth Date" : "25369",
+          "Jobcat" : "1",
+          "Salary" : "27300",
+          "Job Time" : "81",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "239",
+          "Gender" : "f",
+          "Birth Date" : "25460",
+          "Jobcat" : "1",
+          "Salary" : "27750",
+          "Job Time" : "81",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "240",
+          "Gender" : "f",
+          "Birth Date" : "22447",
+          "Jobcat" : "3",
+          "Salary" : "54375",
+          "Job Time" : "81",
+          "Prev Exp" : "81",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "241",
+          "Gender" : "f",
+          "Birth Date" : "13389",
+          "Jobcat" : "1",
+          "Salary" : "17400",
+          "Job Time" : "81",
+          "Prev Exp" : "390",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "242",
+          "Gender" : "f",
+          "Birth Date" : "24779",
+          "Jobcat" : "1",
+          "Salary" : "40800",
+          "Job Time" : "81",
+          "Prev Exp" : "4",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "243",
+          "Gender" : "f",
+          "Birth Date" : "25244",
+          "Jobcat" : "1",
+          "Salary" : "23100",
+          "Job Time" : "81",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "244",
+          "Gender" : "f",
+          "Birth Date" : "25461",
+          "Jobcat" : "1",
+          "Salary" : "22500",
+          "Job Time" : "81",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "245",
+          "Gender" : "f",
+          "Birth Date" : "25278",
+          "Jobcat" : "1",
+          "Salary" : "26700",
+          "Job Time" : "81",
+          "Prev Exp" : "18",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "246",
+          "Gender" : "f",
+          "Birth Date" : "24851",
+          "Jobcat" : "1",
+          "Salary" : "24900",
+          "Job Time" : "81",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "247",
+          "Gender" : "f",
+          "Birth Date" : "24971",
+          "Jobcat" : "1",
+          "Salary" : "19650",
+          "Job Time" : "81",
+          "Prev Exp" : "11",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "248",
+          "Gender" : "f",
+          "Birth Date" : "25302",
+          "Jobcat" : "1",
+          "Salary" : "22050",
+          "Job Time" : "81",
+          "Prev Exp" : "9",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "249",
+          "Gender" : "f",
+          "Birth Date" : "25332",
+          "Jobcat" : "1",
+          "Salary" : "25500",
+          "Job Time" : "81",
+          "Prev Exp" : "11",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "250",
+          "Gender" : "f",
+          "Birth Date" : "24390",
+          "Jobcat" : "1",
+          "Salary" : "28200",
+          "Job Time" : "81",
+          "Prev Exp" : "19",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "251",
+          "Gender" : "f",
+          "Birth Date" : "25222",
+          "Jobcat" : "1",
+          "Salary" : "23100",
+          "Job Time" : "81",
+          "Prev Exp" : "13",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "252",
+          "Gender" : "m",
+          "Birth Date" : "25464",
+          "Jobcat" : "1",
+          "Salary" : "25500",
+          "Job Time" : "81",
+          "Prev Exp" : "9",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "253",
+          "Gender" : "f",
+          "Birth Date" : "15393",
+          "Jobcat" : "1",
+          "Salary" : "17100",
+          "Job Time" : "81",
+          "Prev Exp" : "0",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "254",
+          "Gender" : "m",
+          "Birth Date" : "23415",
+          "Jobcat" : "3",
+          "Salary" : "68125",
+          "Job Time" : "80",
+          "Prev Exp" : "29",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "255",
+          "Gender" : "m",
+          "Birth Date" : "11916",
+          "Jobcat" : "2",
+          "Salary" : "30600",
+          "Job Time" : "80",
+          "Prev Exp" : "460",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "256",
+          "Gender" : "m",
+          "Birth Date" : "17535",
+          "Jobcat" : "3",
+          "Salary" : "52125",
+          "Job Time" : "80",
+          "Prev Exp" : "221",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "257",
+          "Gender" : "m",
+          "Birth Date" : "18895",
+          "Jobcat" : "3",
+          "Salary" : "61875",
+          "Job Time" : "80",
+          "Prev Exp" : "199",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "258",
+          "Gender" : "m",
+          "Birth Date" : "25271",
+          "Jobcat" : "1",
+          "Salary" : "21300",
+          "Job Time" : "80",
+          "Prev Exp" : "24",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "259",
+          "Gender" : "f",
+          "Birth Date" : "25277",
+          "Jobcat" : "1",
+          "Salary" : "19650",
+          "Job Time" : "80",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "260",
+          "Gender" : "f",
+          "Birth Date" : "25254",
+          "Jobcat" : "1",
+          "Salary" : "22350",
+          "Job Time" : "80",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "261",
+          "Gender" : "f",
+          "Birth Date" : "25289",
+          "Jobcat" : "1",
+          "Salary" : "23400",
+          "Job Time" : "80",
+          "Prev Exp" : "18",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "262",
+          "Gender" : "f",
+          "Birth Date" : "25009",
+          "Jobcat" : "1",
+          "Salary" : "24300",
+          "Job Time" : "80",
+          "Prev Exp" : "8",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "263",
+          "Gender" : "f",
+          "Birth Date" : "25124",
+          "Jobcat" : "1",
+          "Salary" : "28500",
+          "Job Time" : "80",
+          "Prev Exp" : "4",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "264",
+          "Gender" : "f",
+          "Birth Date" : "25219",
+          "Jobcat" : "1",
+          "Salary" : "19950",
+          "Job Time" : "80",
+          "Prev Exp" : "8",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "265",
+          "Gender" : "f",
+          "Birth Date" : "25470",
+          "Jobcat" : "1",
+          "Salary" : "23400",
+          "Job Time" : "80",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "266",
+          "Gender" : "f",
+          "Birth Date" : "23291",
+          "Jobcat" : "1",
+          "Salary" : "34500",
+          "Job Time" : "80",
+          "Prev Exp" : "3",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "267",
+          "Gender" : "f",
+          "Birth Date" : "25439",
+          "Jobcat" : "1",
+          "Salary" : "18150",
+          "Job Time" : "80",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "268",
+          "Gender" : "m",
+          "Birth Date" : "13286",
+          "Jobcat" : "1",
+          "Salary" : "22350",
+          "Job Time" : "80",
+          "Prev Exp" : "272",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "269",
+          "Gender" : "m",
+          "Birth Date" : "24183",
+          "Jobcat" : "1",
+          "Salary" : "40200",
+          "Job Time" : "79",
+          "Prev Exp" : "38",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "270",
+          "Gender" : "m",
+          "Birth Date" : "17469",
+          "Jobcat" : "1",
+          "Salary" : "28650",
+          "Job Time" : "79",
+          "Prev Exp" : "261",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "271",
+          "Gender" : "m",
+          "Birth Date" : "23247",
+          "Jobcat" : "1",
+          "Salary" : "27750",
+          "Job Time" : "79",
+          "Prev Exp" : "55",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "272",
+          "Gender" : "m",
+          "Birth Date" : "23545",
+          "Jobcat" : "1",
+          "Salary" : "66875",
+          "Job Time" : "79",
+          "Prev Exp" : "30",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "273",
+          "Gender" : "m",
+          "Birth Date" : "14561",
+          "Jobcat" : "2",
+          "Salary" : "30000",
+          "Job Time" : "79",
+          "Prev Exp" : "308",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "274",
+          "Gender" : "m",
+          "Birth Date" : "23593",
+          "Jobcat" : "3",
+          "Salary" : "83750",
+          "Job Time" : "79",
+          "Prev Exp" : "12",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "275",
+          "Gender" : "m",
+          "Birth Date" : "23025",
+          "Jobcat" : "1",
+          "Salary" : "33900",
+          "Job Time" : "79",
+          "Prev Exp" : "94",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "276",
+          "Gender" : "m",
+          "Birth Date" : "23873",
+          "Jobcat" : "3",
+          "Salary" : "56500",
+          "Job Time" : "79",
+          "Prev Exp" : "12",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "277",
+          "Gender" : "f",
+          "Birth Date" : "23882",
+          "Jobcat" : "3",
+          "Salary" : "43000",
+          "Job Time" : "79",
+          "Prev Exp" : "20",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "278",
+          "Gender" : "f",
+          "Birth Date" : "15869",
+          "Jobcat" : "1",
+          "Salary" : "20850",
+          "Job Time" : "79",
+          "Prev Exp" : "70",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "279",
+          "Gender" : "f",
+          "Birth Date" : "25309",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "79",
+          "Prev Exp" : "8",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "280",
+          "Gender" : "f",
+          "Birth Date" : "25496",
+          "Jobcat" : "1",
+          "Salary" : "24750",
+          "Job Time" : "79",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "281",
+          "Gender" : "m",
+          "Birth Date" : "16486",
+          "Jobcat" : "2",
+          "Salary" : "34500",
+          "Job Time" : "79",
+          "Prev Exp" : "246",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "282",
+          "Gender" : "m",
+          "Birth Date" : "23269",
+          "Jobcat" : "1",
+          "Salary" : "27900",
+          "Job Time" : "79",
+          "Prev Exp" : "47",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "283",
+          "Gender" : "m",
+          "Birth Date" : "23067",
+          "Jobcat" : "3",
+          "Salary" : "68125",
+          "Job Time" : "78",
+          "Prev Exp" : "35",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "284",
+          "Gender" : "m",
+          "Birth Date" : "22564",
+          "Jobcat" : "3",
+          "Salary" : "73500",
+          "Job Time" : "78",
+          "Prev Exp" : "45",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "285",
+          "Gender" : "m",
+          "Birth Date" : "11106",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "78",
+          "Prev Exp" : "429",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "286",
+          "Gender" : "m",
+          "Birth Date" : "21251",
+          "Jobcat" : "3",
+          "Salary" : "40050",
+          "Job Time" : "78",
+          "Prev Exp" : "133",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "287",
+          "Gender" : "m",
+          "Birth Date" : "23760",
+          "Jobcat" : "1",
+          "Salary" : "40350",
+          "Job Time" : "78",
+          "Prev Exp" : "20",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "288",
+          "Gender" : "m",
+          "Birth Date" : "20111",
+          "Jobcat" : "3",
+          "Salary" : "38700",
+          "Job Time" : "78",
+          "Prev Exp" : "176",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "289",
+          "Gender" : "m",
+          "Birth Date" : "23677",
+          "Jobcat" : "3",
+          "Salary" : "65000",
+          "Job Time" : "78",
+          "Prev Exp" : "26",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "290",
+          "Gender" : "m",
+          "Birth Date" : "19819",
+          "Jobcat" : "3",
+          "Salary" : "51450",
+          "Job Time" : "78",
+          "Prev Exp" : "149",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "291",
+          "Gender" : "m",
+          "Birth Date" : "12685",
+          "Jobcat" : "2",
+          "Salary" : "35250",
+          "Job Time" : "78",
+          "Prev Exp" : "387",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "292",
+          "Gender" : "m",
+          "Birth Date" : "23138",
+          "Jobcat" : "1",
+          "Salary" : "25950",
+          "Job Time" : "78",
+          "Prev Exp" : "53",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "293",
+          "Gender" : "m",
+          "Birth Date" : "24004",
+          "Jobcat" : "1",
+          "Salary" : "25050",
+          "Job Time" : "78",
+          "Prev Exp" : "24",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "294",
+          "Gender" : "m",
+          "Birth Date" : "25121",
+          "Jobcat" : "1",
+          "Salary" : "26700",
+          "Job Time" : "78",
+          "Prev Exp" : "25",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "295",
+          "Gender" : "m",
+          "Birth Date" : "11921",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "78",
+          "Prev Exp" : "476",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "296",
+          "Gender" : "m",
+          "Birth Date" : "23419",
+          "Jobcat" : "1",
+          "Salary" : "26850",
+          "Job Time" : "78",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "297",
+          "Gender" : "f",
+          "Birth Date" : "15447",
+          "Jobcat" : "1",
+          "Salary" : "23400",
+          "Job Time" : "78",
+          "Prev Exp" : "209",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "298",
+          "Gender" : "f",
+          "Birth Date" : "24343",
+          "Jobcat" : "1",
+          "Salary" : "24600",
+          "Job Time" : "78",
+          "Prev Exp" : "47",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "299",
+          "Gender" : "f",
+          "Birth Date" : "23873",
+          "Jobcat" : "1",
+          "Salary" : "32550",
+          "Job Time" : "78",
+          "Prev Exp" : "6",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "300",
+          "Gender" : "m",
+          "Birth Date" : "22062",
+          "Jobcat" : "1",
+          "Salary" : "26550",
+          "Job Time" : "78",
+          "Prev Exp" : "105",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "301",
+          "Gender" : "m",
+          "Birth Date" : "25054",
+          "Jobcat" : "1",
+          "Salary" : "31500",
+          "Job Time" : "78",
+          "Prev Exp" : "7",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "302",
+          "Gender" : "m",
+          "Birth Date" : "14516",
+          "Jobcat" : "1",
+          "Salary" : "22350",
+          "Job Time" : "78",
+          "Prev Exp" : "320",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "303",
+          "Gender" : "m",
+          "Birth Date" : "13921",
+          "Jobcat" : "2",
+          "Salary" : "35250",
+          "Job Time" : "78",
+          "Prev Exp" : "281",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "304",
+          "Gender" : "f",
+          "Birth Date" : "16708",
+          "Jobcat" : "1",
+          "Salary" : "25800",
+          "Job Time" : "78",
+          "Prev Exp" : "51",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "305",
+          "Gender" : "m",
+          "Birth Date" : "15274",
+          "Jobcat" : "2",
+          "Salary" : "30750",
+          "Job Time" : "77",
+          "Prev Exp" : "317",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "306",
+          "Gender" : "m",
+          "Birth Date" : "24202",
+          "Jobcat" : "1",
+          "Salary" : "30750",
+          "Job Time" : "77",
+          "Prev Exp" : "41",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "307",
+          "Gender" : "m",
+          "Birth Date" : "16642",
+          "Jobcat" : "3",
+          "Salary" : "50000",
+          "Job Time" : "77",
+          "Prev Exp" : "264",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "308",
+          "Gender" : "m",
+          "Birth Date" : "23043",
+          "Jobcat" : "1",
+          "Salary" : "34500",
+          "Job Time" : "77",
+          "Prev Exp" : "63",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "309",
+          "Gender" : "m",
+          "Birth Date" : "23577",
+          "Jobcat" : "1",
+          "Salary" : "26250",
+          "Job Time" : "77",
+          "Prev Exp" : "38",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "310",
+          "Gender" : "m",
+          "Birth Date" : "23459",
+          "Jobcat" : "1",
+          "Salary" : "44875",
+          "Job Time" : "77",
+          "Prev Exp" : "22",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "311",
+          "Gender" : "f",
+          "Birth Date" : "18674",
+          "Jobcat" : "1",
+          "Salary" : "22500",
+          "Job Time" : "77",
+          "Prev Exp" : "63",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "312",
+          "Gender" : "f",
+          "Birth Date" : "23082",
+          "Jobcat" : "1",
+          "Salary" : "25650",
+          "Job Time" : "77",
+          "Prev Exp" : "64",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "313",
+          "Gender" : "f",
+          "Birth Date" : "25501",
+          "Jobcat" : "1",
+          "Salary" : "21300",
+          "Job Time" : "77",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "314",
+          "Gender" : "f",
+          "Birth Date" : "24435",
+          "Jobcat" : "1",
+          "Salary" : "29850",
+          "Job Time" : "77",
+          "Prev Exp" : "38",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "315",
+          "Gender" : "f",
+          "Birth Date" : "25465",
+          "Jobcat" : "1",
+          "Salary" : "34500",
+          "Job Time" : "77",
+          "Prev Exp" : "4",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "316",
+          "Gender" : "m",
+          "Birth Date" : "21929",
+          "Jobcat" : "1",
+          "Salary" : "27750",
+          "Job Time" : "77",
+          "Prev Exp" : "52",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "317",
+          "Gender" : "m",
+          "Birth Date" : "25261",
+          "Jobcat" : "1",
+          "Salary" : "27750",
+          "Job Time" : "77",
+          "Prev Exp" : "12",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "318",
+          "Gender" : "m",
+          "Birth Date" : "22331",
+          "Jobcat" : "3",
+          "Salary" : "48750",
+          "Job Time" : "76",
+          "Prev Exp" : "61",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "319",
+          "Gender" : "m",
+          "Birth Date" : "24168",
+          "Jobcat" : "1",
+          "Salary" : "43410",
+          "Job Time" : "76",
+          "Prev Exp" : "12",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "320",
+          "Gender" : "m",
+          "Birth Date" : "13464",
+          "Jobcat" : "1",
+          "Salary" : "22050",
+          "Job Time" : "76",
+          "Prev Exp" : "385",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "321",
+          "Gender" : "f",
+          "Birth Date" : "19658",
+          "Jobcat" : "1",
+          "Salary" : "22050",
+          "Job Time" : "76",
+          "Prev Exp" : "6",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "322",
+          "Gender" : "f",
+          "Birth Date" : "13941",
+          "Jobcat" : "1",
+          "Salary" : "22500",
+          "Job Time" : "76",
+          "Prev Exp" : "90",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "323",
+          "Gender" : "f",
+          "Birth Date" : "24605",
+          "Jobcat" : "1",
+          "Salary" : "25500",
+          "Job Time" : "76",
+          "Prev Exp" : "7",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "324",
+          "Gender" : "f",
+          "Birth Date" : "24394",
+          "Jobcat" : "1",
+          "Salary" : "29160",
+          "Job Time" : "76",
+          "Prev Exp" : "22",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "325",
+          "Gender" : "f",
+          "Birth Date" : "12727",
+          "Jobcat" : "1",
+          "Salary" : "16800",
+          "Job Time" : "76",
+          "Prev Exp" : "76",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "326",
+          "Gender" : "m",
+          "Birth Date" : "21390",
+          "Jobcat" : "2",
+          "Salary" : "29550",
+          "Job Time" : "76",
+          "Prev Exp" : "144",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "327",
+          "Gender" : "m",
+          "Birth Date" : "23803",
+          "Jobcat" : "1",
+          "Salary" : "26700",
+          "Job Time" : "76",
+          "Prev Exp" : "18",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "328",
+          "Gender" : "m",
+          "Birth Date" : "19292",
+          "Jobcat" : "3",
+          "Salary" : "55000",
+          "Job Time" : "75",
+          "Prev Exp" : "125",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "329",
+          "Gender" : "m",
+          "Birth Date" : "21421",
+          "Jobcat" : "3",
+          "Salary" : "62500",
+          "Job Time" : "75",
+          "Prev Exp" : "74",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "330",
+          "Gender" : "m",
+          "Birth Date" : "21679",
+          "Jobcat" : "1",
+          "Salary" : "27300",
+          "Job Time" : "75",
+          "Prev Exp" : "132",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "331",
+          "Gender" : "f",
+          "Birth Date" : "15376",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "75",
+          "Prev Exp" : "144",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "332",
+          "Gender" : "f",
+          "Birth Date" : "23507",
+          "Jobcat" : "1",
+          "Salary" : "33000",
+          "Job Time" : "75",
+          "Prev Exp" : "26",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "333",
+          "Gender" : "f",
+          "Birth Date" : "23768",
+          "Jobcat" : "1",
+          "Salary" : "37050",
+          "Job Time" : "75",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "334",
+          "Gender" : "f",
+          "Birth Date" : "24236",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "75",
+          "Prev Exp" : "32",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "335",
+          "Gender" : "m",
+          "Birth Date" : "11015",
+          "Jobcat" : "2",
+          "Salary" : "31950",
+          "Job Time" : "74",
+          "Prev Exp" : "408",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "336",
+          "Gender" : "m",
+          "Birth Date" : "23386",
+          "Jobcat" : "3",
+          "Salary" : "47250",
+          "Job Time" : "74",
+          "Prev Exp" : "45",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "337",
+          "Gender" : "f",
+          "Birth Date" : "25595",
+          "Jobcat" : "1",
+          "Salary" : "26100",
+          "Job Time" : "74",
+          "Prev Exp" : "2",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "338",
+          "Gender" : "f",
+          "Birth Date" : "14104",
+          "Jobcat" : "1",
+          "Salary" : "15900",
+          "Job Time" : "74",
+          "Prev Exp" : "43",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "339",
+          "Gender" : "f",
+          "Birth Date" : "15652",
+          "Jobcat" : "1",
+          "Salary" : "23700",
+          "Job Time" : "74",
+          "Prev Exp" : "281",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "340",
+          "Gender" : "f",
+          "Birth Date" : "12545",
+          "Jobcat" : "1",
+          "Salary" : "21750",
+          "Job Time" : "74",
+          "Prev Exp" : "318",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "341",
+          "Gender" : "m",
+          "Birth Date" : "16457",
+          "Jobcat" : "3",
+          "Salary" : "59400",
+          "Job Time" : "74",
+          "Prev Exp" : "272",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "342",
+          "Gender" : "f",
+          "Birth Date" : "17685",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "74",
+          "Prev Exp" : "117",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "343",
+          "Gender" : "m",
+          "Birth Date" : "19519",
+          "Jobcat" : "3",
+          "Salary" : "103500",
+          "Job Time" : "73",
+          "Prev Exp" : "150",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "344",
+          "Gender" : "m",
+          "Birth Date" : "23297",
+          "Jobcat" : "1",
+          "Salary" : "35700",
+          "Job Time" : "73",
+          "Prev Exp" : "72",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "345",
+          "Gender" : "f",
+          "Birth Date" : "25328",
+          "Jobcat" : "1",
+          "Salary" : "22200",
+          "Job Time" : "73",
+          "Prev Exp" : "7",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "346",
+          "Gender" : "f",
+          "Birth Date" : "25066",
+          "Jobcat" : "1",
+          "Salary" : "22950",
+          "Job Time" : "73",
+          "Prev Exp" : "22",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "347",
+          "Gender" : "f",
+          "Birth Date" : "16294",
+          "Jobcat" : "1",
+          "Salary" : "23100",
+          "Job Time" : "73",
+          "Prev Exp" : "228",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "348",
+          "Gender" : "f",
+          "Birth Date" : "22808",
+          "Jobcat" : "3",
+          "Salary" : "56750",
+          "Job Time" : "73",
+          "Prev Exp" : "15",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "349",
+          "Gender" : "f",
+          "Birth Date" : "13961",
+          "Jobcat" : "1",
+          "Salary" : "29100",
+          "Job Time" : "73",
+          "Prev Exp" : "375",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "350",
+          "Gender" : "f",
+          "Birth Date" : "14356",
+          "Jobcat" : "1",
+          "Salary" : "37650",
+          "Job Time" : "73",
+          "Prev Exp" : "132",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "351",
+          "Gender" : "f",
+          "Birth Date" : "24134",
+          "Jobcat" : "1",
+          "Salary" : "27900",
+          "Job Time" : "73",
+          "Prev Exp" : "32",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "352",
+          "Gender" : "f",
+          "Birth Date" : "12384",
+          "Jobcat" : "1",
+          "Salary" : "21150",
+          "Job Time" : "73",
+          "Prev Exp" : "159",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "353",
+          "Gender" : "m",
+          "Birth Date" : "20158",
+          "Jobcat" : "2",
+          "Salary" : "31200",
+          "Job Time" : "73",
+          "Prev Exp" : "155",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "354",
+          "Gender" : "f",
+          "Birth Date" : "16930",
+          "Jobcat" : "1",
+          "Salary" : "20550",
+          "Job Time" : "73",
+          "Prev Exp" : "154",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "355",
+          "Gender" : "m",
+          "Birth Date" : "22420",
+          "Jobcat" : "1",
+          "Salary" : "25950",
+          "Job Time" : "72",
+          "Prev Exp" : "83",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "356",
+          "Gender" : "m",
+          "Birth Date" : "24056",
+          "Jobcat" : "1",
+          "Salary" : "28350",
+          "Job Time" : "72",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "357",
+          "Gender" : "f",
+          "Birth Date" : "11706",
+          "Jobcat" : "1",
+          "Salary" : "17700",
+          "Job Time" : "72",
+          "Prev Exp" : "184",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "358",
+          "Gender" : "f",
+          "Birth Date" : "16173",
+          "Jobcat" : "1",
+          "Salary" : "23550",
+          "Job Time" : "72",
+          "Prev Exp" : "49",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "359",
+          "Gender" : "f",
+          "Birth Date" : "15139",
+          "Jobcat" : "1",
+          "Salary" : "19950",
+          "Job Time" : "72",
+          "Prev Exp" : "56",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "360",
+          "Gender" : "f",
+          "Birth Date" : "25061",
+          "Jobcat" : "1",
+          "Salary" : "29400",
+          "Job Time" : "72",
+          "Prev Exp" : "30",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "361",
+          "Gender" : "f",
+          "Birth Date" : "24267",
+          "Jobcat" : "1",
+          "Salary" : "28800",
+          "Job Time" : "72",
+          "Prev Exp" : "18",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "362",
+          "Gender" : "f",
+          "Birth Date" : "13613",
+          "Jobcat" : "1",
+          "Salary" : "16950",
+          "Job Time" : "72",
+          "Prev Exp" : "319",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "363",
+          "Gender" : "m",
+          "Birth Date" : "19878",
+          "Jobcat" : "1",
+          "Salary" : "35700",
+          "Job Time" : "72",
+          "Prev Exp" : "138",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "364",
+          "Gender" : "f",
+          "Birth Date" : "17252",
+          "Jobcat" : "1",
+          "Salary" : "17400",
+          "Job Time" : "72",
+          "Prev Exp" : "116",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "365",
+          "Gender" : "f",
+          "Birth Date" : "17822",
+          "Jobcat" : "1",
+          "Salary" : "21450",
+          "Job Time" : "72",
+          "Prev Exp" : "194",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "366",
+          "Gender" : "f",
+          "Birth Date" : "22361",
+          "Jobcat" : "1",
+          "Salary" : "24750",
+          "Job Time" : "72",
+          "Prev Exp" : "68",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "367",
+          "Gender" : "f",
+          "Birth Date" : "15483",
+          "Jobcat" : "1",
+          "Salary" : "16950",
+          "Job Time" : "72",
+          "Prev Exp" : "271",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "368",
+          "Gender" : "f",
+          "Birth Date" : "15907",
+          "Jobcat" : "1",
+          "Salary" : "26100",
+          "Job Time" : "72",
+          "Prev Exp" : "169",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "369",
+          "Gender" : "m",
+          "Birth Date" : "24790",
+          "Jobcat" : "1",
+          "Salary" : "28050",
+          "Job Time" : "71",
+          "Prev Exp" : "15",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "370",
+          "Gender" : "f",
+          "Birth Date" : "23031",
+          "Jobcat" : "1",
+          "Salary" : "36600",
+          "Job Time" : "71",
+          "Prev Exp" : "12",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "371",
+          "Gender" : "f",
+          "Birth Date" : "24202",
+          "Jobcat" : "3",
+          "Salary" : "58125",
+          "Job Time" : "71",
+          "Prev Exp" : "11",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "372",
+          "Gender" : "m",
+          "Birth Date" : "13018",
+          "Jobcat" : "1",
+          "Salary" : "21300",
+          "Job Time" : "70",
+          "Prev Exp" : "372",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "373",
+          "Gender" : "m",
+          "Birth Date" : "18200",
+          "Jobcat" : "1",
+          "Salary" : "22500",
+          "Job Time" : "70",
+          "Prev Exp" : "216",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "374",
+          "Gender" : "m",
+          "Birth Date" : "24679",
+          "Jobcat" : "1",
+          "Salary" : "29400",
+          "Job Time" : "70",
+          "Prev Exp" : "15",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "375",
+          "Gender" : "m",
+          "Birth Date" : "24388",
+          "Jobcat" : "1",
+          "Salary" : "27450",
+          "Job Time" : "70",
+          "Prev Exp" : "41",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "376",
+          "Gender" : "m",
+          "Birth Date" : "23659",
+          "Jobcat" : "1",
+          "Salary" : "29850",
+          "Job Time" : "70",
+          "Prev Exp" : "48",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "377",
+          "Gender" : "m",
+          "Birth Date" : "24075",
+          "Jobcat" : "1",
+          "Salary" : "25350",
+          "Job Time" : "70",
+          "Prev Exp" : "56",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "378",
+          "Gender" : "f",
+          "Birth Date" : "11222",
+          "Jobcat" : "1",
+          "Salary" : "15750",
+          "Job Time" : "70",
+          "Prev Exp" : "275",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "379",
+          "Gender" : "f",
+          "Birth Date" : "14012",
+          "Jobcat" : "1",
+          "Salary" : "19650",
+          "Job Time" : "70",
+          "Prev Exp" : "102",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "380",
+          "Gender" : "f",
+          "Birth Date" : "15029",
+          "Jobcat" : "1",
+          "Salary" : "21000",
+          "Job Time" : "70",
+          "Prev Exp" : "82",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "381",
+          "Gender" : "m",
+          "Birth Date" : "16998",
+          "Jobcat" : "1",
+          "Salary" : "27000",
+          "Job Time" : "70",
+          "Prev Exp" : "192",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "382",
+          "Gender" : "m",
+          "Birth Date" : "21843",
+          "Jobcat" : "1",
+          "Salary" : "24000",
+          "Job Time" : "70",
+          "Prev Exp" : "120",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "383",
+          "Gender" : "m",
+          "Birth Date" : "22435",
+          "Jobcat" : "3",
+          "Salary" : "78500",
+          "Job Time" : "70",
+          "Prev Exp" : "67",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "384",
+          "Gender" : "f",
+          "Birth Date" : "20404",
+          "Jobcat" : "1",
+          "Salary" : "20850",
+          "Job Time" : "70",
+          "Prev Exp" : "127",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "385",
+          "Gender" : "m",
+          "Birth Date" : "11232",
+          "Jobcat" : "2",
+          "Salary" : "30000",
+          "Job Time" : "69",
+          "Prev Exp" : "348",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "386",
+          "Gender" : "m",
+          "Birth Date" : "12649",
+          "Jobcat" : "2",
+          "Salary" : "28500",
+          "Job Time" : "69",
+          "Prev Exp" : "174",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "387",
+          "Gender" : "m",
+          "Birth Date" : "23776",
+          "Jobcat" : "3",
+          "Salary" : "65000",
+          "Job Time" : "69",
+          "Prev Exp" : "74",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "388",
+          "Gender" : "m",
+          "Birth Date" : "21552",
+          "Jobcat" : "1",
+          "Salary" : "30150",
+          "Job Time" : "69",
+          "Prev Exp" : "110",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "389",
+          "Gender" : "m",
+          "Birth Date" : "21655",
+          "Jobcat" : "3",
+          "Salary" : "66875",
+          "Job Time" : "69",
+          "Prev Exp" : "81",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "390",
+          "Gender" : "f",
+          "Birth Date" : "25151",
+          "Jobcat" : "1",
+          "Salary" : "24150",
+          "Job Time" : "69",
+          "Prev Exp" : "7",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "391",
+          "Gender" : "f",
+          "Birth Date" : "25215",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "69",
+          "Prev Exp" : "12",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "392",
+          "Gender" : "f",
+          "Birth Date" : "25700",
+          "Jobcat" : "1",
+          "Salary" : "21600",
+          "Job Time" : "69",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "393",
+          "Gender" : "f",
+          "Birth Date" : "25378",
+          "Jobcat" : "1",
+          "Salary" : "27900",
+          "Job Time" : "69",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "394",
+          "Gender" : "f",
+          "Birth Date" : "25603",
+          "Jobcat" : "1",
+          "Salary" : "29100",
+          "Job Time" : "69",
+          "Prev Exp" : "17",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "395",
+          "Gender" : "f",
+          "Birth Date" : "25636",
+          "Jobcat" : "1",
+          "Salary" : "22650",
+          "Job Time" : "69",
+          "Prev Exp" : "2",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "396",
+          "Gender" : "f",
+          "Birth Date" : "25797",
+          "Jobcat" : "1",
+          "Salary" : "20850",
+          "Job Time" : "69",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "397",
+          "Gender" : "f",
+          "Birth Date" : "25585",
+          "Jobcat" : "1",
+          "Salary" : "22950",
+          "Job Time" : "69",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "398",
+          "Gender" : "f",
+          "Birth Date" : "25893",
+          "Jobcat" : "1",
+          "Salary" : "30600",
+          "Job Time" : "69",
+          "Prev Exp" : "5",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "399",
+          "Gender" : "f",
+          "Birth Date" : "25605",
+          "Jobcat" : "1",
+          "Salary" : "20400",
+          "Job Time" : "69",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "400",
+          "Gender" : "f",
+          "Birth Date" : "25421",
+          "Jobcat" : "1",
+          "Salary" : "23850",
+          "Job Time" : "69",
+          "Prev Exp" : "20",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "401",
+          "Gender" : "f",
+          "Birth Date" : "25641",
+          "Jobcat" : "1",
+          "Salary" : "22800",
+          "Job Time" : "69",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "402",
+          "Gender" : "f",
+          "Birth Date" : "25606",
+          "Jobcat" : "1",
+          "Salary" : "20700",
+          "Job Time" : "69",
+          "Prev Exp" : "2",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "403",
+          "Gender" : "f",
+          "Birth Date" : "25686",
+          "Jobcat" : "1",
+          "Salary" : "21300",
+          "Job Time" : "69",
+          "Prev Exp" : "3",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "404",
+          "Gender" : "f",
+          "Birth Date" : "19480",
+          "Jobcat" : "1",
+          "Salary" : "24300",
+          "Job Time" : "69",
+          "Prev Exp" : "121",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "405",
+          "Gender" : "f",
+          "Birth Date" : "16265",
+          "Jobcat" : "1",
+          "Salary" : "19650",
+          "Job Time" : "69",
+          "Prev Exp" : "133",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "406",
+          "Gender" : "m",
+          "Birth Date" : "24020",
+          "Jobcat" : "3",
+          "Salary" : "60000",
+          "Job Time" : "68",
+          "Prev Exp" : "17",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "407",
+          "Gender" : "m",
+          "Birth Date" : "23991",
+          "Jobcat" : "1",
+          "Salary" : "30300",
+          "Job Time" : "68",
+          "Prev Exp" : "55",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "408",
+          "Gender" : "m",
+          "Birth Date" : "23419",
+          "Jobcat" : "3",
+          "Salary" : "61250",
+          "Job Time" : "68",
+          "Prev Exp" : "9",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "409",
+          "Gender" : "m",
+          "Birth Date" : "22971",
+          "Jobcat" : "1",
+          "Salary" : "36000",
+          "Job Time" : "68",
+          "Prev Exp" : "21",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "410",
+          "Gender" : "f",
+          "Birth Date" : "15350",
+          "Jobcat" : "1",
+          "Salary" : "25200",
+          "Job Time" : "68",
+          "Prev Exp" : "344",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "411",
+          "Gender" : "f",
+          "Birth Date" : "11556",
+          "Jobcat" : "1",
+          "Salary" : "16200",
+          "Job Time" : "68",
+          "Prev Exp" : "180",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "412",
+          "Gender" : "f",
+          "Birth Date" : "25735",
+          "Jobcat" : "1",
+          "Salary" : "22800",
+          "Job Time" : "68",
+          "Prev Exp" : "2",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "413",
+          "Gender" : "f",
+          "Birth Date" : "24179",
+          "Jobcat" : "3",
+          "Salary" : "43500",
+          "Job Time" : "68",
+          "Prev Exp" : "11",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "414",
+          "Gender" : "m",
+          "Birth Date" : "22289",
+          "Jobcat" : "2",
+          "Salary" : "30300",
+          "Job Time" : "68",
+          "Prev Exp" : "155",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "415",
+          "Gender" : "m",
+          "Birth Date" : "23133",
+          "Jobcat" : "1",
+          "Salary" : "31950",
+          "Job Time" : "68",
+          "Prev Exp" : "70",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "416",
+          "Gender" : "m",
+          "Birth Date" : "23758",
+          "Jobcat" : "1",
+          "Salary" : "35250",
+          "Job Time" : "67",
+          "Prev Exp" : "6",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "417",
+          "Gender" : "m",
+          "Birth Date" : "24675",
+          "Jobcat" : "1",
+          "Salary" : "37800",
+          "Job Time" : "67",
+          "Prev Exp" : "36",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "418",
+          "Gender" : "m",
+          "Birth Date" : "23898",
+          "Jobcat" : "1",
+          "Salary" : "31200",
+          "Job Time" : "67",
+          "Prev Exp" : "46",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "419",
+          "Gender" : "m",
+          "Birth Date" : "23670",
+          "Jobcat" : "1",
+          "Salary" : "29400",
+          "Job Time" : "67",
+          "Prev Exp" : "68",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "420",
+          "Gender" : "m",
+          "Birth Date" : "21017",
+          "Jobcat" : "3",
+          "Salary" : "70000",
+          "Job Time" : "67",
+          "Prev Exp" : "75",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "421",
+          "Gender" : "m",
+          "Birth Date" : "22586",
+          "Jobcat" : "1",
+          "Salary" : "33900",
+          "Job Time" : "67",
+          "Prev Exp" : "96",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "422",
+          "Gender" : "m",
+          "Birth Date" : "23212",
+          "Jobcat" : "1",
+          "Salary" : "27150",
+          "Job Time" : "67",
+          "Prev Exp" : "78",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "423",
+          "Gender" : "f",
+          "Birth Date" : "13266",
+          "Jobcat" : "1",
+          "Salary" : "22200",
+          "Job Time" : "67",
+          "Prev Exp" : "196",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "424",
+          "Gender" : "f",
+          "Birth Date" : "24294",
+          "Jobcat" : "1",
+          "Salary" : "31350",
+          "Job Time" : "67",
+          "Prev Exp" : "47",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "425",
+          "Gender" : "f",
+          "Birth Date" : "15367",
+          "Jobcat" : "1",
+          "Salary" : "20850",
+          "Job Time" : "67",
+          "Prev Exp" : "181",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "426",
+          "Gender" : "m",
+          "Birth Date" : "19294",
+          "Jobcat" : "1",
+          "Salary" : "33300",
+          "Job Time" : "67",
+          "Prev Exp" : "120",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "427",
+          "Gender" : "m",
+          "Birth Date" : "15452",
+          "Jobcat" : "1",
+          "Salary" : "26250",
+          "Job Time" : "67",
+          "Prev Exp" : "97",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "428",
+          "Gender" : "m",
+          "Birth Date" : "23435",
+          "Jobcat" : "1",
+          "Salary" : "31950",
+          "Job Time" : "67",
+          "Prev Exp" : "58",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "429",
+          "Gender" : "m",
+          "Birth Date" : "17027",
+          "Jobcat" : "2",
+          "Salary" : "30000",
+          "Job Time" : "67",
+          "Prev Exp" : "305",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "430",
+          "Gender" : "m",
+          "Birth Date" : "20574",
+          "Jobcat" : "3",
+          "Salary" : "66250",
+          "Job Time" : "67",
+          "Prev Exp" : "99",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "431",
+          "Gender" : "m",
+          "Birth Date" : "21565",
+          "Jobcat" : "3",
+          "Salary" : "86250",
+          "Job Time" : "66",
+          "Prev Exp" : "50",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "432",
+          "Gender" : "m",
+          "Birth Date" : "23448",
+          "Jobcat" : "1",
+          "Salary" : "30750",
+          "Job Time" : "66",
+          "Prev Exp" : "56",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "433",
+          "Gender" : "m",
+          "Birth Date" : "24426",
+          "Jobcat" : "1",
+          "Salary" : "33540",
+          "Job Time" : "66",
+          "Prev Exp" : "47",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "434",
+          "Gender" : "m",
+          "Birth Date" : "-2146826288",
+          "Jobcat" : "1",
+          "Salary" : "34950",
+          "Job Time" : "66",
+          "Prev Exp" : "55",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "435",
+          "Gender" : "m",
+          "Birth Date" : "23521",
+          "Jobcat" : "1",
+          "Salary" : "40350",
+          "Job Time" : "66",
+          "Prev Exp" : "80",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "436",
+          "Gender" : "m",
+          "Birth Date" : "23889",
+          "Jobcat" : "1",
+          "Salary" : "30270",
+          "Job Time" : "66",
+          "Prev Exp" : "80",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "437",
+          "Gender" : "m",
+          "Birth Date" : "12301",
+          "Jobcat" : "1",
+          "Salary" : "26250",
+          "Job Time" : "66",
+          "Prev Exp" : "264",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "438",
+          "Gender" : "m",
+          "Birth Date" : "23661",
+          "Jobcat" : "1",
+          "Salary" : "32400",
+          "Job Time" : "66",
+          "Prev Exp" : "64",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "439",
+          "Gender" : "f",
+          "Birth Date" : "25744",
+          "Jobcat" : "1",
+          "Salary" : "20400",
+          "Job Time" : "66",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "440",
+          "Gender" : "f",
+          "Birth Date" : "17481",
+          "Jobcat" : "1",
+          "Salary" : "24150",
+          "Job Time" : "66",
+          "Prev Exp" : "96",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "441",
+          "Gender" : "f",
+          "Birth Date" : "18112",
+          "Jobcat" : "1",
+          "Salary" : "23850",
+          "Job Time" : "66",
+          "Prev Exp" : "122",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "442",
+          "Gender" : "f",
+          "Birth Date" : "25099",
+          "Jobcat" : "1",
+          "Salary" : "29700",
+          "Job Time" : "66",
+          "Prev Exp" : "26",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "443",
+          "Gender" : "f",
+          "Birth Date" : "10634",
+          "Jobcat" : "1",
+          "Salary" : "21600",
+          "Job Time" : "66",
+          "Prev Exp" : "228",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "444",
+          "Gender" : "f",
+          "Birth Date" : "22540",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "66",
+          "Prev Exp" : "87",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "445",
+          "Gender" : "m",
+          "Birth Date" : "23227",
+          "Jobcat" : "1",
+          "Salary" : "28050",
+          "Job Time" : "66",
+          "Prev Exp" : "84",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "446",
+          "Gender" : "m",
+          "Birth Date" : "21400",
+          "Jobcat" : "3",
+          "Salary" : "100000",
+          "Job Time" : "66",
+          "Prev Exp" : "128",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "447",
+          "Gender" : "m",
+          "Birth Date" : "22464",
+          "Jobcat" : "1",
+          "Salary" : "49000",
+          "Job Time" : "66",
+          "Prev Exp" : "86",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "448",
+          "Gender" : "f",
+          "Birth Date" : "12210",
+          "Jobcat" : "1",
+          "Salary" : "16350",
+          "Job Time" : "66",
+          "Prev Exp" : "163",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "449",
+          "Gender" : "m",
+          "Birth Date" : "24109",
+          "Jobcat" : "3",
+          "Salary" : "70000",
+          "Job Time" : "65",
+          "Prev Exp" : "19",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "450",
+          "Gender" : "m",
+          "Birth Date" : "19926",
+          "Jobcat" : "3",
+          "Salary" : "55000",
+          "Job Time" : "65",
+          "Prev Exp" : "129",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "451",
+          "Gender" : "m",
+          "Birth Date" : "25403",
+          "Jobcat" : "1",
+          "Salary" : "28500",
+          "Job Time" : "65",
+          "Prev Exp" : "20",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "452",
+          "Gender" : "m",
+          "Birth Date" : "19584",
+          "Jobcat" : "1",
+          "Salary" : "28800",
+          "Job Time" : "65",
+          "Prev Exp" : "210",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "453",
+          "Gender" : "m",
+          "Birth Date" : "11177",
+          "Jobcat" : "1",
+          "Salary" : "24450",
+          "Job Time" : "65",
+          "Prev Exp" : "338",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "454",
+          "Gender" : "m",
+          "Birth Date" : "23951",
+          "Jobcat" : "3",
+          "Salary" : "90625",
+          "Job Time" : "65",
+          "Prev Exp" : "18",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "455",
+          "Gender" : "m",
+          "Birth Date" : "23393",
+          "Jobcat" : "3",
+          "Salary" : "43650",
+          "Job Time" : "65",
+          "Prev Exp" : "19",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "456",
+          "Gender" : "m",
+          "Birth Date" : "21840",
+          "Jobcat" : "3",
+          "Salary" : "75000",
+          "Job Time" : "65",
+          "Prev Exp" : "54",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "457",
+          "Gender" : "m",
+          "Birth Date" : "24985",
+          "Jobcat" : "1",
+          "Salary" : "31650",
+          "Job Time" : "65",
+          "Prev Exp" : "10",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "458",
+          "Gender" : "m",
+          "Birth Date" : "23929",
+          "Jobcat" : "3",
+          "Salary" : "61875",
+          "Job Time" : "65",
+          "Prev Exp" : "26",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "459",
+          "Gender" : "f",
+          "Birth Date" : "25974",
+          "Jobcat" : "1",
+          "Salary" : "21750",
+          "Job Time" : "65",
+          "Prev Exp" : "0",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "460",
+          "Gender" : "f",
+          "Birth Date" : "25427",
+          "Jobcat" : "1",
+          "Salary" : "22500",
+          "Job Time" : "65",
+          "Prev Exp" : "24",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "461",
+          "Gender" : "f",
+          "Birth Date" : "16018",
+          "Jobcat" : "1",
+          "Salary" : "21600",
+          "Job Time" : "65",
+          "Prev Exp" : "173",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "462",
+          "Gender" : "f",
+          "Birth Date" : "23302",
+          "Jobcat" : "3",
+          "Salary" : "34410",
+          "Job Time" : "65",
+          "Prev Exp" : "79",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "463",
+          "Gender" : "f",
+          "Birth Date" : "12707",
+          "Jobcat" : "1",
+          "Salary" : "20700",
+          "Job Time" : "65",
+          "Prev Exp" : "241",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "464",
+          "Gender" : "m",
+          "Birth Date" : "22725",
+          "Jobcat" : "3",
+          "Salary" : "47550",
+          "Job Time" : "64",
+          "Prev Exp" : "27",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "465",
+          "Gender" : "m",
+          "Birth Date" : "22847",
+          "Jobcat" : "1",
+          "Salary" : "33900",
+          "Job Time" : "64",
+          "Prev Exp" : "106",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "466",
+          "Gender" : "f",
+          "Birth Date" : "17699",
+          "Jobcat" : "1",
+          "Salary" : "23400",
+          "Job Time" : "64",
+          "Prev Exp" : "198",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "467",
+          "Gender" : "f",
+          "Birth Date" : "24702",
+          "Jobcat" : "1",
+          "Salary" : "32850",
+          "Job Time" : "64",
+          "Prev Exp" : "20",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "468",
+          "Gender" : "f",
+          "Birth Date" : "24074",
+          "Jobcat" : "3",
+          "Salary" : "55750",
+          "Job Time" : "64",
+          "Prev Exp" : "36",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "469",
+          "Gender" : "f",
+          "Birth Date" : "23529",
+          "Jobcat" : "1",
+          "Salary" : "25200",
+          "Job Time" : "64",
+          "Prev Exp" : "57",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "470",
+          "Gender" : "m",
+          "Birth Date" : "23398",
+          "Jobcat" : "1",
+          "Salary" : "26250",
+          "Job Time" : "64",
+          "Prev Exp" : "69",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "471",
+          "Gender" : "m",
+          "Birth Date" : "24322",
+          "Jobcat" : "1",
+          "Salary" : "26400",
+          "Job Time" : "64",
+          "Prev Exp" : "32",
+          "Minority" : "1"
+       },
+       {
+          "ID" : "472",
+          "Gender" : "m",
+          "Birth Date" : "24159",
+          "Jobcat" : "1",
+          "Salary" : "39150",
+          "Job Time" : "63",
+          "Prev Exp" : "46",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "473",
+          "Gender" : "f",
+          "Birth Date" : "13844",
+          "Jobcat" : "1",
+          "Salary" : "21450",
+          "Job Time" : "63",
+          "Prev Exp" : "139",
+          "Minority" : "0"
+       },
+       {
+          "ID" : "474",
+          "Gender" : "f",
+          "Birth Date" : "25147",
+          "Jobcat" : "1",
+          "Salary" : "29400",
+          "Job Time" : "63",
+          "Prev Exp" : "9",
+          "Minority" : "0"
+       }
+   ]
+}

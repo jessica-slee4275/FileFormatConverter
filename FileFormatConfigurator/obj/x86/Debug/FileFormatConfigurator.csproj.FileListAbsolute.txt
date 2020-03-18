@@ -1,0 +1,9 @@
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\bin\x86\Debug\FileFormatConfigurator.dll.config
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\bin\x86\Debug\FileFormatConfigurator.dll
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\bin\x86\Debug\FileFormatConfigurator.pdb
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\obj\x86\Debug\FileFormatConfigurator.csprojAssemblyReference.cache
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\obj\x86\Debug\FileFormatConfigurator.Properties.Resources.resources
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\obj\x86\Debug\FileFormatConfigurator.csproj.GenerateResource.cache
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\obj\x86\Debug\FileFormatConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\obj\x86\Debug\FileFormatConfigurator.dll
+C:\Users\asdfk\source\repos\FileFormatConverter\FileFormatConfigurator\obj\x86\Debug\FileFormatConfigurator.pdb
