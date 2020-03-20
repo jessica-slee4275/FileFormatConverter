@@ -37,10 +37,15 @@ namespace FileFormatConfigurator
                         {
                             if (outputPath.Contains("json"))
                             {
-                                OnStatusMessage($"Starting Json Writer...");
+                                OnStatusMessage($"Creating Json file...");
                                 var jsonWriter = new JsonWriter(validImportFile, outputFilePathList, excelGenerator);
-                                
-                                OnStatusMessage($"Creating Json file : {outputPath}");
+                                OnStatusMessage($"Created Json file : {outputPath}");
+                            }
+                            else if (outputPath.Contains("xml"))
+                            {
+                                OnStatusMessage($"Creating Xml file...");
+                                var xmlWriter = new XmlWriter(validImportFile, outputFilePathList, excelGenerator);
+                                OnStatusMessage($"Created Xml file : {outputPath}");
                             }
                         }
                         break;

@@ -80,32 +80,31 @@ namespace FileFormatConfigurator
             ProcessingStart(importPath, exportPath, _ExportFormat);
             CheckValidPath(label1.Text, _ImportPath);
             CheckValidPath(label2.Text, _ExportPath);
-            foreach (var format in _ExportFormat.Keys)
-            {
-                _ProcessingExportFormat = format;
-                CheckValidFormat(_ImportPath, _ExportFormat);
-                if (followThrough) {
-                    try
-                    {
-                        var configurator = new Configurator();
-                        configurator.ErrorMessage += OnConfigurator_ErrorMessage;
-                        configurator.StatusMessage += OnConfigurator_StatusMessage;
-                        if (ValidImportFilesPathList.Count > 0) { 
-                            foreach (var validImportFilePath in ValidImportFilesPathList)
-                            {
-                                configurator.Load(validImportFilePath, OutputPathList, Configurator.CommandLine);
-                                configurator.GenerateConfigurations(validImportFilePath, OutputPathList);
-                            }
+            
+            //_ProcessingExportFormat = format;
+            CheckValidFormat(_ImportPath, _ExportFormat);
+            if (followThrough) {
+                try
+                {
+                    var configurator = new Configurator();
+                    configurator.ErrorMessage += OnConfigurator_ErrorMessage;
+                    configurator.StatusMessage += OnConfigurator_StatusMessage;
+                    if (ValidImportFilesPathList.Count > 0) { 
+                        foreach (var validImportFilePath in ValidImportFilesPathList)
+                        {
+                            configurator.Load(validImportFilePath, OutputPathList, Configurator.CommandLine);
+                            configurator.GenerateConfigurations(validImportFilePath, OutputPathList);
                         }
                     }
-                    catch (Exception e) { exceptions.Add(e); }
-                    finally
-                    {
-                        ProcessingEnd();
-                    }
                 }
-                else { LogStatus("Failed processing configurations.", Status.ERROR); }
+                catch (Exception e) { exceptions.Add(e); }
+                finally
+                {
+                    ProcessingEnd();
+                }
             }
+            else { LogStatus("Failed processing configurations.", Status.ERROR); }
+            
         }
         private void ProcessingStart(string importPath, string exportPath, Dictionary<string, string> _ExportFormat)
         {
@@ -155,20 +154,20 @@ namespace FileFormatConfigurator
                 }
             }
         }
-        private void CheckValidFormat(string importPath, Dictionary<string, string> formatList)
+        private void CheckValidFormat(string importPath, Dictionary<string, string> formatDict)
         {
             string[] fileEntries = Directory.GetFiles(importPath);
-
+            var filePath = "";
             foreach (var file in fileEntries)
             {
-                var filePath = Path.GetFullPath(file);
+                filePath = Path.GetFullPath(file);
                 var fileformat = Path.GetExtension(filePath);
-                if (Regex.IsMatch(fileformat, Config.ImportFileFilterRange) && !fileformat.Contains(_ProcessingExportFormat.ToLower()))
+                if (Regex.IsMatch(fileformat, Config.ImportFileFilterRange))
                 {
+                    //&& !fileformat.Contains(_ProcessingExportFormat.ToLower())
                     if (!Path.GetFileName(filePath).Contains("~"))
                     {
                         ValidImportFilesPathList.Add(filePath);
-                        PrintCreateFiles(filePath, _ProcessingExportFormat);
                         LogStatus($"Valid processing file   : '{Path.GetFileName(file)}'", Status.SUCCESS);
                     }
                 }
@@ -177,25 +176,33 @@ namespace FileFormatConfigurator
                     LogStatus($"Invalid processing file : '{Path.GetFileName(file)}'", Status.WARNING);
                 }
             }
+            foreach (var importFilePath in ValidImportFilesPathList)
+            {
+                PrintCreateFiles(importFilePath, formatDict);
+            }
             if (OutputPathList.Count == 0)
             {
                 LogStatus($"There is same format between import path and selected format.", Status.ERROR);
             }
         }
-        private void PrintCreateFiles(string importPath, string format)
+        private void PrintCreateFiles(string importPath, Dictionary<string,string> formatDict)
         {
-            string path = Path.Combine(_ExportPath, Path.GetFileNameWithoutExtension(importPath) + "." + format.ToLower());
-            if (path != importPath)
+            var formatList = formatDict.Keys.ToList();
+            foreach (var format in formatList)
             {
-                if (Regex.IsMatch(Path.GetExtension(importPath), Config.ImportFileFilterRange))
+                string path = Path.Combine(_ExportPath, Path.GetFileNameWithoutExtension(importPath) + "." + format.ToLower());
+                if (path != importPath)
                 {
-                    OutputPathList.Add(path);
-                    LogStatus($"Create File - '{path}'", Status.LOG);
+                    if (Regex.IsMatch(Path.GetExtension(importPath), Config.ImportFileFilterRange))
+                    {
+                        OutputPathList.Add(path);
+                        LogStatus($"Create File - '{path}'", Status.LOG);
+                    }
                 }
-            }
-            else
-            {
-                LogStatus($"Duplicated path file will not generated. - '{path}'", Status.LOG);
+                else
+                {
+                    LogStatus($"Duplicated path file will not generated. - '{path}'", Status.LOG);
+                }
             }
         }
         private void PrintInvalidInput(string name, string inputPath)

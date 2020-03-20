@@ -16,6 +16,7 @@ namespace FileFormatConfigurator
     {
         public static List<List<string>> Title_Row = new List<List<string>>() { };
         public static List<List<string>> Rows = new List<List<string>>() { };
+        public static string WorkSheetName = "";
         public ExcelGenerator()
         {
         }
@@ -30,6 +31,7 @@ namespace FileFormatConfigurator
             Application xlApp = new Excel.Application();
             Workbook xlWorkbook = xlApp.Workbooks.Open($"{path}");
             Worksheet xlWorksheet = xlWorkbook.Sheets[1];
+            WorkSheetName = xlWorksheet.Name;
             Range xlRange = xlWorksheet.UsedRange;
             Names wbNames = xlWorkbook.Names;
 
@@ -75,7 +77,6 @@ namespace FileFormatConfigurator
             //excel is not zero based!!
             for (int i = titleRowEnd+1; i <= rowCount; i++)
             {
-                //값들이 첫row만 읽어옴
                 List<string> row = new List<string>() { };
                 
                 for (int j = 1; j <= colCount; j++)
@@ -83,7 +84,6 @@ namespace FileFormatConfigurator
                     if (xlRange.Cells[i, j] != null && xlRange.Cells[i, j].Value2 != null) {
                         string val = xlRange.Cells[i, j].Value2.ToString();
                         row.Add(val);
-                        //string n = (xlRange.Cells[i, j].Value2.ToString() + "\t");
                     }
                 }
                 Rows.Add(row); 

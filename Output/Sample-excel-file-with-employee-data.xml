@@ -1,0 +1,4743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sample-excel-file-with-employee-data>
+<Employee-data-1>
+   <ID>1</ID>
+   <Gender>m</Gender>
+   <BirthDate>19027</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>57000</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>144</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-1>
+<Employee-data-2>
+   <ID>2</ID>
+   <Gender>m</Gender>
+   <BirthDate>21328</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>40200</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>36</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-2>
+<Employee-data-3>
+   <ID>3</ID>
+   <Gender>f</Gender>
+   <BirthDate>10800</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21450</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>381</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-3>
+<Employee-data-4>
+   <ID>4</ID>
+   <Gender>f</Gender>
+   <BirthDate>17272</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21900</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>190</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-4>
+<Employee-data-5>
+   <ID>5</ID>
+   <Gender>m</Gender>
+   <BirthDate>20129</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>45000</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>138</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-5>
+<Employee-data-6>
+   <ID>6</ID>
+   <Gender>m</Gender>
+   <BirthDate>21419</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>32100</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>67</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-6>
+<Employee-data-7>
+   <ID>7</ID>
+   <Gender>m</Gender>
+   <BirthDate>20571</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>36000</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>114</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-7>
+<Employee-data-8>
+   <ID>8</ID>
+   <Gender>f</Gender>
+   <BirthDate>24233</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21900</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-8>
+<Employee-data-9>
+   <ID>9</ID>
+   <Gender>f</Gender>
+   <BirthDate>16825</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27900</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>115</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-9>
+<Employee-data-10>
+   <ID>10</ID>
+   <Gender>f</Gender>
+   <BirthDate>16846</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>244</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-10>
+<Employee-data-11>
+   <ID>11</ID>
+   <Gender>f</Gender>
+   <BirthDate>18301</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30300</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>143</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-11>
+<Employee-data-12>
+   <ID>12</ID>
+   <Gender>m</Gender>
+   <BirthDate>24118</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28350</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>26</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-12>
+<Employee-data-13>
+   <ID>13</ID>
+   <Gender>m</Gender>
+   <BirthDate>22114</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27750</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>34</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-13>
+<Employee-data-14>
+   <ID>14</ID>
+   <Gender>f</Gender>
+   <BirthDate>17955</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35100</Salary>
+   <JobTime>98</JobTime>
+   <PrevExp>137</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-14>
+<Employee-data-15>
+   <ID>15</ID>
+   <Gender>m</Gender>
+   <BirthDate>22887</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27300</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>66</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-15>
+<Employee-data-16>
+   <ID>16</ID>
+   <Gender>m</Gender>
+   <BirthDate>23698</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>40800</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>24</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-16>
+<Employee-data-17>
+   <ID>17</ID>
+   <Gender>m</Gender>
+   <BirthDate>22845</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>46000</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-17>
+<Employee-data-18>
+   <ID>18</ID>
+   <Gender>m</Gender>
+   <BirthDate>20534</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>103750</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>70</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-18>
+<Employee-data-19>
+   <ID>19</ID>
+   <Gender>m</Gender>
+   <BirthDate>22877</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>42300</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>103</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-19>
+<Employee-data-20>
+   <ID>20</ID>
+   <Gender>f</Gender>
+   <BirthDate>14633</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26250</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-20>
+<Employee-data-21>
+   <ID>21</ID>
+   <Gender>f</Gender>
+   <BirthDate>23061</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>38850</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>17</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-21>
+<Employee-data-22>
+   <ID>22</ID>
+   <Gender>m</Gender>
+   <BirthDate>14878</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21750</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>315</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-22>
+<Employee-data-23>
+   <ID>23</ID>
+   <Gender>f</Gender>
+   <BirthDate>23816</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>75</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-23>
+<Employee-data-24>
+   <ID>24</ID>
+   <Gender>f</Gender>
+   <BirthDate>12140</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16950</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>124</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-24>
+<Employee-data-25>
+   <ID>25</ID>
+   <Gender>f</Gender>
+   <BirthDate>15523</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21150</Salary>
+   <JobTime>97</JobTime>
+   <PrevExp>171</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-25>
+<Employee-data-26>
+   <ID>26</ID>
+   <Gender>m</Gender>
+   <BirthDate>24419</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31050</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>14</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-26>
+<Employee-data-27>
+   <ID>27</ID>
+   <Gender>m</Gender>
+   <BirthDate>19802</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>60375</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>96</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-27>
+<Employee-data-28>
+   <ID>28</ID>
+   <Gender>m</Gender>
+   <BirthDate>23112</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>32550</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>43</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-28>
+<Employee-data-29>
+   <ID>29</ID>
+   <Gender>m</Gender>
+   <BirthDate>16099</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>135000</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>199</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-29>
+<Employee-data-30>
+   <ID>30</ID>
+   <Gender>m</Gender>
+   <BirthDate>22541</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31200</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>54</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-30>
+<Employee-data-31>
+   <ID>31</ID>
+   <Gender>m</Gender>
+   <BirthDate>23431</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>36150</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>83</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-31>
+<Employee-data-32>
+   <ID>32</ID>
+   <Gender>m</Gender>
+   <BirthDate>19752</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>110625</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>120</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-32>
+<Employee-data-33>
+   <ID>33</ID>
+   <Gender>m</Gender>
+   <BirthDate>22358</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>42000</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>68</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-33>
+<Employee-data-34>
+   <ID>34</ID>
+   <Gender>m</Gender>
+   <BirthDate>17931</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>92000</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>175</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-34>
+<Employee-data-35>
+   <ID>35</ID>
+   <Gender>m</Gender>
+   <BirthDate>22515</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>81250</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-35>
+<Employee-data-36>
+   <ID>36</ID>
+   <Gender>f</Gender>
+   <BirthDate>23230</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31350</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>52</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-36>
+<Employee-data-37>
+   <ID>37</ID>
+   <Gender>m</Gender>
+   <BirthDate>20006</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29100</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>113</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-37>
+<Employee-data-38>
+   <ID>38</ID>
+   <Gender>m</Gender>
+   <BirthDate>22763</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31350</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>49</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-38>
+<Employee-data-39>
+   <ID>39</ID>
+   <Gender>m</Gender>
+   <BirthDate>22089</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>36000</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>46</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-39>
+<Employee-data-40>
+   <ID>40</ID>
+   <Gender>f</Gender>
+   <BirthDate>12294</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19200</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>23</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-40>
+<Employee-data-41>
+   <ID>41</ID>
+   <Gender>f</Gender>
+   <BirthDate>22358</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23550</Salary>
+   <JobTime>96</JobTime>
+   <PrevExp>52</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-41>
+<Employee-data-42>
+   <ID>42</ID>
+   <Gender>m</Gender>
+   <BirthDate>22182</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35100</Salary>
+   <JobTime>95</JobTime>
+   <PrevExp>90</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-42>
+<Employee-data-43>
+   <ID>43</ID>
+   <Gender>m</Gender>
+   <BirthDate>23394</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23250</Salary>
+   <JobTime>95</JobTime>
+   <PrevExp>46</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-43>
+<Employee-data-44>
+   <ID>44</ID>
+   <Gender>m</Gender>
+   <BirthDate>23177</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29250</Salary>
+   <JobTime>95</JobTime>
+   <PrevExp>50</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-44>
+<Employee-data-45>
+   <ID>45</ID>
+   <Gender>m</Gender>
+   <BirthDate>14094</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>95</JobTime>
+   <PrevExp>307</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-45>
+<Employee-data-46>
+   <ID>46</ID>
+   <Gender>f</Gender>
+   <BirthDate>14933</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22350</Salary>
+   <JobTime>95</JobTime>
+   <PrevExp>165</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-46>
+<Employee-data-47>
+   <ID>47</ID>
+   <Gender>f</Gender>
+   <BirthDate>13998</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30000</Salary>
+   <JobTime>95</JobTime>
+   <PrevExp>228</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-47>
+<Employee-data-48>
+   <ID>48</ID>
+   <Gender>m</Gender>
+   <BirthDate>17325</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>240</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-48>
+<Employee-data-49>
+   <ID>49</ID>
+   <Gender>m</Gender>
+   <BirthDate>21444</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34800</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>93</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-49>
+<Employee-data-50>
+   <ID>50</ID>
+   <Gender>m</Gender>
+   <BirthDate>21955</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>60000</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>59</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-50>
+<Employee-data-51>
+   <ID>51</ID>
+   <Gender>m</Gender>
+   <BirthDate>22835</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35550</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-51>
+<Employee-data-52>
+   <ID>52</ID>
+   <Gender>m</Gender>
+   <BirthDate>23327</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>45150</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>40</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-52>
+<Employee-data-53>
+   <ID>53</ID>
+   <Gender>m</Gender>
+   <BirthDate>19835</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>73750</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>56</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-53>
+<Employee-data-54>
+   <ID>54</ID>
+   <Gender>m</Gender>
+   <BirthDate>11478</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25050</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>444</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-54>
+<Employee-data-55>
+   <ID>55</ID>
+   <Gender>m</Gender>
+   <BirthDate>22092</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27000</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>120</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-55>
+<Employee-data-56>
+   <ID>56</ID>
+   <Gender>m</Gender>
+   <BirthDate>22752</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26850</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-56>
+<Employee-data-57>
+   <ID>57</ID>
+   <Gender>m</Gender>
+   <BirthDate>23116</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33900</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>78</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-57>
+<Employee-data-58>
+   <ID>58</ID>
+   <Gender>f</Gender>
+   <BirthDate>23695</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26400</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>3</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-58>
+<Employee-data-59>
+   <ID>59</ID>
+   <Gender>m</Gender>
+   <BirthDate>22408</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28050</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>36</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-59>
+<Employee-data-60>
+   <ID>60</ID>
+   <Gender>m</Gender>
+   <BirthDate>21597</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30900</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>102</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-60>
+<Employee-data-61>
+   <ID>61</ID>
+   <Gender>m</Gender>
+   <BirthDate>23495</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22500</Salary>
+   <JobTime>94</JobTime>
+   <PrevExp>36</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-61>
+<Employee-data-62>
+   <ID>62</ID>
+   <Gender>m</Gender>
+   <BirthDate>22845</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>48000</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>22</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-62>
+<Employee-data-63>
+   <ID>63</ID>
+   <Gender>m</Gender>
+   <BirthDate>22513</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>55000</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>32</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-63>
+<Employee-data-64>
+   <ID>64</ID>
+   <Gender>m</Gender>
+   <BirthDate>23282</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>53125</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-64>
+<Employee-data-65>
+   <ID>65</ID>
+   <Gender>m</Gender>
+   <BirthDate>23464</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21900</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>41</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-65>
+<Employee-data-66>
+   <ID>66</ID>
+   <Gender>m</Gender>
+   <BirthDate>22693</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>78125</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>7</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-66>
+<Employee-data-67>
+   <ID>67</ID>
+   <Gender>m</Gender>
+   <BirthDate>23525</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>46000</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>35</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-67>
+<Employee-data-68>
+   <ID>68</ID>
+   <Gender>m</Gender>
+   <BirthDate>23136</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>45250</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>36</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-68>
+<Employee-data-69>
+   <ID>69</ID>
+   <Gender>m</Gender>
+   <BirthDate>22090</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>56550</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>34</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-69>
+<Employee-data-70>
+   <ID>70</ID>
+   <Gender>m</Gender>
+   <BirthDate>22685</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>41100</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>27</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-70>
+<Employee-data-71>
+   <ID>71</ID>
+   <Gender>m</Gender>
+   <BirthDate>17771</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>82500</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>207</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-71>
+<Employee-data-72>
+   <ID>72</ID>
+   <Gender>f</Gender>
+   <BirthDate>23383</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>54000</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-72>
+<Employee-data-73>
+   <ID>73</ID>
+   <Gender>f</Gender>
+   <BirthDate>24877</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26400</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-73>
+<Employee-data-74>
+   <ID>74</ID>
+   <Gender>f</Gender>
+   <BirthDate>12172</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33900</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>192</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-74>
+<Employee-data-75>
+   <ID>75</ID>
+   <Gender>f</Gender>
+   <BirthDate>23966</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24150</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-75>
+<Employee-data-76>
+   <ID>76</ID>
+   <Gender>f</Gender>
+   <BirthDate>24718</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29250</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-76>
+<Employee-data-77>
+   <ID>77</ID>
+   <Gender>f</Gender>
+   <BirthDate>25090</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27600</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>6</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-77>
+<Employee-data-78>
+   <ID>78</ID>
+   <Gender>f</Gender>
+   <BirthDate>25070</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22950</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>10</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-78>
+<Employee-data-79>
+   <ID>79</ID>
+   <Gender>f</Gender>
+   <BirthDate>22669</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34800</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>8</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-79>
+<Employee-data-80>
+   <ID>80</ID>
+   <Gender>f</Gender>
+   <BirthDate>22426</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>51000</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>22</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-80>
+<Employee-data-81>
+   <ID>81</ID>
+   <Gender>f</Gender>
+   <BirthDate>24909</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24300</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-81>
+<Employee-data-82>
+   <ID>82</ID>
+   <Gender>f</Gender>
+   <BirthDate>17407</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24750</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>193</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-82>
+<Employee-data-83>
+   <ID>83</ID>
+   <Gender>f</Gender>
+   <BirthDate>24757</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22950</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-83>
+<Employee-data-84>
+   <ID>84</ID>
+   <Gender>f</Gender>
+   <BirthDate>24543</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25050</Salary>
+   <JobTime>93</JobTime>
+   <PrevExp>8</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-84>
+<Employee-data-85>
+   <ID>85</ID>
+   <Gender>m</Gender>
+   <BirthDate>22745</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25950</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>42</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-85>
+<Employee-data-86>
+   <ID>86</ID>
+   <Gender>m</Gender>
+   <BirthDate>22518</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31650</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>64</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-86>
+<Employee-data-87>
+   <ID>87</ID>
+   <Gender>m</Gender>
+   <BirthDate>21843</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24150</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>130</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-87>
+<Employee-data-88>
+   <ID>88</ID>
+   <Gender>m</Gender>
+   <BirthDate>22687</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>72500</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>10</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-88>
+<Employee-data-89>
+   <ID>89</ID>
+   <Gender>m</Gender>
+   <BirthDate>22456</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>68750</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>8</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-89>
+<Employee-data-90>
+   <ID>90</ID>
+   <Gender>f</Gender>
+   <BirthDate>13938</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16200</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-90>
+<Employee-data-91>
+   <ID>91</ID>
+   <Gender>f</Gender>
+   <BirthDate>24780</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20100</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>24</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-91>
+<Employee-data-92>
+   <ID>92</ID>
+   <Gender>f</Gender>
+   <BirthDate>25014</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>6</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-92>
+<Employee-data-93>
+   <ID>93</ID>
+   <Gender>f</Gender>
+   <BirthDate>24902</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25950</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-93>
+<Employee-data-94>
+   <ID>94</ID>
+   <Gender>f</Gender>
+   <BirthDate>18479</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24600</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>44</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-94>
+<Employee-data-95>
+   <ID>95</ID>
+   <Gender>f</Gender>
+   <BirthDate>25058</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28500</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>6</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-95>
+<Employee-data-96>
+   <ID>96</ID>
+   <Gender>m</Gender>
+   <BirthDate>12329</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>432</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-96>
+<Employee-data-97>
+   <ID>97</ID>
+   <Gender>m</Gender>
+   <BirthDate>19377</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>40200</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>168</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-97>
+<Employee-data-98>
+   <ID>98</ID>
+   <Gender>m</Gender>
+   <BirthDate>20592</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30000</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>144</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-98>
+<Employee-data-99>
+   <ID>99</ID>
+   <Gender>f</Gender>
+   <BirthDate>25026</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22050</Salary>
+   <JobTime>92</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-99>
+<Employee-data-100>
+   <ID>100</ID>
+   <Gender>m</Gender>
+   <BirthDate>23309</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>78250</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>47</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-100>
+<Employee-data-101>
+   <ID>101</ID>
+   <Gender>m</Gender>
+   <BirthDate>21989</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>60625</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>44</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-101>
+<Employee-data-102>
+   <ID>102</ID>
+   <Gender>m</Gender>
+   <BirthDate>23098</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>39900</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>59</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-102>
+<Employee-data-103>
+   <ID>103</ID>
+   <Gender>m</Gender>
+   <BirthDate>21626</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>97000</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>68</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-103>
+<Employee-data-104>
+   <ID>104</ID>
+   <Gender>m</Gender>
+   <BirthDate>22955</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27450</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-104>
+<Employee-data-105>
+   <ID>105</ID>
+   <Gender>m</Gender>
+   <BirthDate>24173</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31650</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-105>
+<Employee-data-106>
+   <ID>106</ID>
+   <Gender>m</Gender>
+   <BirthDate>22862</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>91250</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>23</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-106>
+<Employee-data-107>
+   <ID>107</ID>
+   <Gender>f</Gender>
+   <BirthDate>22144</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25200</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>83</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-107>
+<Employee-data-108>
+   <ID>108</ID>
+   <Gender>f</Gender>
+   <BirthDate>11155</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21000</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>108</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-108>
+<Employee-data-109>
+   <ID>109</ID>
+   <Gender>m</Gender>
+   <BirthDate>23325</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30450</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>49</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-109>
+<Employee-data-110>
+   <ID>110</ID>
+   <Gender>m</Gender>
+   <BirthDate>19296</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28350</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>151</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-110>
+<Employee-data-111>
+   <ID>111</ID>
+   <Gender>m</Gender>
+   <BirthDate>14942</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>314</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-111>
+<Employee-data-112>
+   <ID>112</ID>
+   <Gender>m</Gender>
+   <BirthDate>17705</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>91</JobTime>
+   <PrevExp>240</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-112>
+<Employee-data-113>
+   <ID>113</ID>
+   <Gender>m</Gender>
+   <BirthDate>21829</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>54875</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>68</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-113>
+<Employee-data-114>
+   <ID>114</ID>
+   <Gender>m</Gender>
+   <BirthDate>22518</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>37800</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>60</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-114>
+<Employee-data-115>
+   <ID>115</ID>
+   <Gender>m</Gender>
+   <BirthDate>22413</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33450</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>85</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-115>
+<Employee-data-116>
+   <ID>116</ID>
+   <Gender>m</Gender>
+   <BirthDate>22806</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30300</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>16</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-116>
+<Employee-data-117>
+   <ID>117</ID>
+   <Gender>f</Gender>
+   <BirthDate>11702</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31500</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>205</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-117>
+<Employee-data-118>
+   <ID>118</ID>
+   <Gender>f</Gender>
+   <BirthDate>23440</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31650</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-118>
+<Employee-data-119>
+   <ID>119</ID>
+   <Gender>f</Gender>
+   <BirthDate>23215</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25200</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>55</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-119>
+<Employee-data-120>
+   <ID>120</ID>
+   <Gender>f</Gender>
+   <BirthDate>23693</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>37800</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>7</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-120>
+<Employee-data-121>
+   <ID>121</ID>
+   <Gender>f</Gender>
+   <BirthDate>13368</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>18750</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>54</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-121>
+<Employee-data-122>
+   <ID>122</ID>
+   <Gender>f</Gender>
+   <BirthDate>24011</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>32550</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>22</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-122>
+<Employee-data-123>
+   <ID>123</ID>
+   <Gender>f</Gender>
+   <BirthDate>18012</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33300</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>3</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-123>
+<Employee-data-124>
+   <ID>124</ID>
+   <Gender>f</Gender>
+   <BirthDate>23160</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>38550</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-124>
+<Employee-data-125>
+   <ID>125</ID>
+   <Gender>m</Gender>
+   <BirthDate>20673</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27450</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>173</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-125>
+<Employee-data-126>
+   <ID>126</ID>
+   <Gender>m</Gender>
+   <BirthDate>18649</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>24300</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>191</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-126>
+<Employee-data-127>
+   <ID>127</ID>
+   <Gender>m</Gender>
+   <BirthDate>18507</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>209</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-127>
+<Employee-data-128>
+   <ID>128</ID>
+   <Gender>f</Gender>
+   <BirthDate>17008</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19650</Salary>
+   <JobTime>90</JobTime>
+   <PrevExp>229</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-128>
+<Employee-data-129>
+   <ID>129</ID>
+   <Gender>m</Gender>
+   <BirthDate>21749</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>68750</Salary>
+   <JobTime>89</JobTime>
+   <PrevExp>38</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-129>
+<Employee-data-130>
+   <ID>130</ID>
+   <Gender>m</Gender>
+   <BirthDate>21434</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>59375</Salary>
+   <JobTime>89</JobTime>
+   <PrevExp>6</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-130>
+<Employee-data-131>
+   <ID>131</ID>
+   <Gender>m</Gender>
+   <BirthDate>22685</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31500</Salary>
+   <JobTime>89</JobTime>
+   <PrevExp>22</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-131>
+<Employee-data-132>
+   <ID>132</ID>
+   <Gender>m</Gender>
+   <BirthDate>19496</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27300</Salary>
+   <JobTime>89</JobTime>
+   <PrevExp>175</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-132>
+<Employee-data-133>
+   <ID>133</ID>
+   <Gender>m</Gender>
+   <BirthDate>21805</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27000</Salary>
+   <JobTime>89</JobTime>
+   <PrevExp>87</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-133>
+<Employee-data-134>
+   <ID>134</ID>
+   <Gender>f</Gender>
+   <BirthDate>15290</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>41550</Salary>
+   <JobTime>89</JobTime>
+   <PrevExp>285</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-134>
+<Employee-data-135>
+   <ID>135</ID>
+   <Gender>f</Gender>
+   <BirthDate>24980</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26250</Salary>
+   <JobTime>89</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-135>
+<Employee-data-136>
+   <ID>136</ID>
+   <Gender>m</Gender>
+   <BirthDate>14482</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22200</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>324</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-136>
+<Employee-data-137>
+   <ID>137</ID>
+   <Gender>m</Gender>
+   <BirthDate>13708</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>65000</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>264</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-137>
+<Employee-data-138>
+   <ID>138</ID>
+   <Gender>m</Gender>
+   <BirthDate>17176</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30900</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>252</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-138>
+<Employee-data-139>
+   <ID>139</ID>
+   <Gender>f</Gender>
+   <BirthDate>11492</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20100</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>90</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-139>
+<Employee-data-140>
+   <ID>140</ID>
+   <Gender>f</Gender>
+   <BirthDate>23837</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22350</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>26</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-140>
+<Employee-data-141>
+   <ID>141</ID>
+   <Gender>f</Gender>
+   <BirthDate>24272</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35550</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>32</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-141>
+<Employee-data-142>
+   <ID>142</ID>
+   <Gender>f</Gender>
+   <BirthDate>24424</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28500</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>34</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-142>
+<Employee-data-143>
+   <ID>143</ID>
+   <Gender>f</Gender>
+   <BirthDate>14481</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>107</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-143>
+<Employee-data-144>
+   <ID>144</ID>
+   <Gender>f</Gender>
+   <BirthDate>11563</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16650</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>412</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-144>
+<Employee-data-145>
+   <ID>145</ID>
+   <Gender>m</Gender>
+   <BirthDate>23391</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26700</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>38</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-145>
+<Employee-data-146>
+   <ID>146</ID>
+   <Gender>m</Gender>
+   <BirthDate>18630</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>43950</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>182</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-146>
+<Employee-data-147>
+   <ID>147</ID>
+   <Gender>m</Gender>
+   <BirthDate>13404</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23700</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>359</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-147>
+<Employee-data-148>
+   <ID>148</ID>
+   <Gender>f</Gender>
+   <BirthDate>21828</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26550</Salary>
+   <JobTime>88</JobTime>
+   <PrevExp>61</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-148>
+<Employee-data-149>
+   <ID>149</ID>
+   <Gender>m</Gender>
+   <BirthDate>22825</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27600</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>75</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-149>
+<Employee-data-150>
+   <ID>150</ID>
+   <Gender>m</Gender>
+   <BirthDate>19788</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25800</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>143</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-150>
+<Employee-data-151>
+   <ID>151</ID>
+   <Gender>m</Gender>
+   <BirthDate>19952</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>42300</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>126</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-151>
+<Employee-data-152>
+   <ID>152</ID>
+   <Gender>m</Gender>
+   <BirthDate>10716</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>451</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-152>
+<Employee-data-153>
+   <ID>153</ID>
+   <Gender>f</Gender>
+   <BirthDate>24605</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26700</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-153>
+<Employee-data-154>
+   <ID>154</ID>
+   <Gender>f</Gender>
+   <BirthDate>14769</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20850</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>163</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-154>
+<Employee-data-155>
+   <ID>155</ID>
+   <Gender>m</Gender>
+   <BirthDate>23076</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35250</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>54</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-155>
+<Employee-data-156>
+   <ID>156</ID>
+   <Gender>m</Gender>
+   <BirthDate>23023</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26700</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>56</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-156>
+<Employee-data-157>
+   <ID>157</ID>
+   <Gender>f</Gender>
+   <BirthDate>24655</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26550</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-157>
+<Employee-data-158>
+   <ID>158</ID>
+   <Gender>f</Gender>
+   <BirthDate>23640</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27750</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-158>
+<Employee-data-159>
+   <ID>159</ID>
+   <Gender>f</Gender>
+   <BirthDate>18641</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25050</Salary>
+   <JobTime>87</JobTime>
+   <PrevExp>123</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-159>
+<Employee-data-160>
+   <ID>160</ID>
+   <Gender>m</Gender>
+   <BirthDate>18867</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>66000</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>150</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-160>
+<Employee-data-161>
+   <ID>161</ID>
+   <Gender>m</Gender>
+   <BirthDate>23053</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>52650</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>20</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-161>
+<Employee-data-162>
+   <ID>162</ID>
+   <Gender>m</Gender>
+   <BirthDate>22426</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>45625</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>60</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-162>
+<Employee-data-163>
+   <ID>163</ID>
+   <Gender>m</Gender>
+   <BirthDate>24056</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30900</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>25</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-163>
+<Employee-data-164>
+   <ID>164</ID>
+   <Gender>f</Gender>
+   <BirthDate>23967</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29400</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>24</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-164>
+<Employee-data-165>
+   <ID>165</ID>
+   <Gender>f</Gender>
+   <BirthDate>24226</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33300</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>24</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-165>
+<Employee-data-166>
+   <ID>166</ID>
+   <Gender>f</Gender>
+   <BirthDate>15534</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21900</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>156</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-166>
+<Employee-data-167>
+   <ID>167</ID>
+   <Gender>f</Gender>
+   <BirthDate>11927</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>18150</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>72</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-167>
+<Employee-data-168>
+   <ID>168</ID>
+   <Gender>f</Gender>
+   <BirthDate>22759</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>46875</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>19</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-168>
+<Employee-data-169>
+   <ID>169</ID>
+   <Gender>m</Gender>
+   <BirthDate>23885</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25500</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>37</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-169>
+<Employee-data-170>
+   <ID>170</ID>
+   <Gender>m</Gender>
+   <BirthDate>23541</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26550</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>38</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-170>
+<Employee-data-171>
+   <ID>171</ID>
+   <Gender>m</Gender>
+   <BirthDate>10979</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26700</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>367</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-171>
+<Employee-data-172>
+   <ID>172</ID>
+   <Gender>f</Gender>
+   <BirthDate>19523</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29850</Salary>
+   <JobTime>86</JobTime>
+   <PrevExp>79</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-172>
+<Employee-data-173>
+   <ID>173</ID>
+   <Gender>m</Gender>
+   <BirthDate>18278</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>69250</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>134</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-173>
+<Employee-data-174>
+   <ID>174</ID>
+   <Gender>m</Gender>
+   <BirthDate>12791</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>31950</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>438</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-174>
+<Employee-data-175>
+   <ID>175</ID>
+   <Gender>m</Gender>
+   <BirthDate>13888</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26250</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>171</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-175>
+<Employee-data-176>
+   <ID>176</ID>
+   <Gender>f</Gender>
+   <BirthDate>22924</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35700</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>19</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-176>
+<Employee-data-177>
+   <ID>177</ID>
+   <Gender>f</Gender>
+   <BirthDate>22869</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28500</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>69</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-177>
+<Employee-data-178>
+   <ID>178</ID>
+   <Gender>f</Gender>
+   <BirthDate>13897</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>17100</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>72</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-178>
+<Employee-data-179>
+   <ID>179</ID>
+   <Gender>m</Gender>
+   <BirthDate>23761</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25200</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>29</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-179>
+<Employee-data-180>
+   <ID>180</ID>
+   <Gender>f</Gender>
+   <BirthDate>21938</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>59</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-180>
+<Employee-data-181>
+   <ID>181</ID>
+   <Gender>f</Gender>
+   <BirthDate>14249</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27450</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>101</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-181>
+<Employee-data-182>
+   <ID>182</ID>
+   <Gender>f</Gender>
+   <BirthDate>15773</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>18450</Salary>
+   <JobTime>85</JobTime>
+   <PrevExp>228</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-182>
+<Employee-data-183>
+   <ID>183</ID>
+   <Gender>m</Gender>
+   <BirthDate>21976</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>39300</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>72</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-183>
+<Employee-data-184>
+   <ID>184</ID>
+   <Gender>m</Gender>
+   <BirthDate>23686</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>38850</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>53</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-184>
+<Employee-data-185>
+   <ID>185</ID>
+   <Gender>m</Gender>
+   <BirthDate>11198</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>380</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-185>
+<Employee-data-186>
+   <ID>186</ID>
+   <Gender>m</Gender>
+   <BirthDate>23564</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>37500</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>33</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-186>
+<Employee-data-187>
+   <ID>187</ID>
+   <Gender>m</Gender>
+   <BirthDate>23221</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>58750</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>13</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-187>
+<Employee-data-188>
+   <ID>188</ID>
+   <Gender>f</Gender>
+   <BirthDate>12454</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34500</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>208</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-188>
+<Employee-data-189>
+   <ID>189</ID>
+   <Gender>f</Gender>
+   <BirthDate>18350</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>36000</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>240</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-189>
+<Employee-data-190>
+   <ID>190</ID>
+   <Gender>f</Gender>
+   <BirthDate>12008</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29100</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>35</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-190>
+<Employee-data-191>
+   <ID>191</ID>
+   <Gender>f</Gender>
+   <BirthDate>11619</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16500</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>288</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-191>
+<Employee-data-192>
+   <ID>192</ID>
+   <Gender>m</Gender>
+   <BirthDate>18180</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19650</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>180</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-192>
+<Employee-data-193>
+   <ID>193</ID>
+   <Gender>f</Gender>
+   <BirthDate>24310</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24750</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>41</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-193>
+<Employee-data-194>
+   <ID>194</ID>
+   <Gender>f</Gender>
+   <BirthDate>13980</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27150</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>231</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-194>
+<Employee-data-195>
+   <ID>195</ID>
+   <Gender>f</Gender>
+   <BirthDate>20399</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26400</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>36</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-195>
+<Employee-data-196>
+   <ID>196</ID>
+   <Gender>f</Gender>
+   <BirthDate>16864</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23100</Salary>
+   <JobTime>84</JobTime>
+   <PrevExp>214</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-196>
+<Employee-data-197>
+   <ID>197</ID>
+   <Gender>m</Gender>
+   <BirthDate>22920</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>54900</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>49</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-197>
+<Employee-data-198>
+   <ID>198</ID>
+   <Gender>m</Gender>
+   <BirthDate>19070</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>70875</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>156</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-198>
+<Employee-data-199>
+   <ID>199</ID>
+   <Gender>m</Gender>
+   <BirthDate>21218</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>51250</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>69</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-199>
+<Employee-data-200>
+   <ID>200</ID>
+   <Gender>m</Gender>
+   <BirthDate>23055</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>67500</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>9</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-200>
+<Employee-data-201>
+   <ID>201</ID>
+   <Gender>m</Gender>
+   <BirthDate>20217</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29340</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>150</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-201>
+<Employee-data-202>
+   <ID>202</ID>
+   <Gender>m</Gender>
+   <BirthDate>23087</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>39600</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>47</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-202>
+<Employee-data-203>
+   <ID>203</ID>
+   <Gender>m</Gender>
+   <BirthDate>23453</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29100</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>50</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-203>
+<Employee-data-204>
+   <ID>204</ID>
+   <Gender>m</Gender>
+   <BirthDate>22210</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33150</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>69</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-204>
+<Employee-data-205>
+   <ID>205</ID>
+   <Gender>m</Gender>
+   <BirthDate>16245</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>66750</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>258</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-205>
+<Employee-data-206>
+   <ID>206</ID>
+   <Gender>m</Gender>
+   <BirthDate>15848</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>33750</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>284</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-206>
+<Employee-data-207>
+   <ID>207</ID>
+   <Gender>m</Gender>
+   <BirthDate>21596</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27300</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>91</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-207>
+<Employee-data-208>
+   <ID>208</ID>
+   <Gender>f</Gender>
+   <BirthDate>25170</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>16</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-208>
+<Employee-data-209>
+   <ID>209</ID>
+   <Gender>f</Gender>
+   <BirthDate>12433</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19800</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>75</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-209>
+<Employee-data-210>
+   <ID>210</ID>
+   <Gender>m</Gender>
+   <BirthDate>18022</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30600</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>216</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-210>
+<Employee-data-211>
+   <ID>211</ID>
+   <Gender>m</Gender>
+   <BirthDate>18575</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28950</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>108</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-211>
+<Employee-data-212>
+   <ID>212</ID>
+   <Gender>m</Gender>
+   <BirthDate>23876</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>38400</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>64</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-212>
+<Employee-data-213>
+   <ID>213</ID>
+   <Gender>m</Gender>
+   <BirthDate>16730</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>302</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-213>
+<Employee-data-214>
+   <ID>214</ID>
+   <Gender>f</Gender>
+   <BirthDate>25094</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20400</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>9</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-214>
+<Employee-data-215>
+   <ID>215</ID>
+   <Gender>f</Gender>
+   <BirthDate>25096</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19200</Salary>
+   <JobTime>83</JobTime>
+   <PrevExp>7</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-215>
+<Employee-data-216>
+   <ID>216</ID>
+   <Gender>m</Gender>
+   <BirthDate>23513</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30150</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>72</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-216>
+<Employee-data-217>
+   <ID>217</ID>
+   <Gender>m</Gender>
+   <BirthDate>17972</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34620</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>149</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-217>
+<Employee-data-218>
+   <ID>218</ID>
+   <Gender>m</Gender>
+   <BirthDate>23457</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>80000</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>34</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-218>
+<Employee-data-219>
+   <ID>219</ID>
+   <Gender>m</Gender>
+   <BirthDate>23044</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25350</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>32</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-219>
+<Employee-data-220>
+   <ID>220</ID>
+   <Gender>m</Gender>
+   <BirthDate>23240</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29850</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>85</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-220>
+<Employee-data-221>
+   <ID>221</ID>
+   <Gender>f</Gender>
+   <BirthDate>17309</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>97</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-221>
+<Employee-data-222>
+   <ID>222</ID>
+   <Gender>f</Gender>
+   <BirthDate>13042</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27750</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>265</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-222>
+<Employee-data-223>
+   <ID>223</ID>
+   <Gender>f</Gender>
+   <BirthDate>15414</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22350</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-223>
+<Employee-data-224>
+   <ID>224</ID>
+   <Gender>f</Gender>
+   <BirthDate>12743</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16200</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-224>
+<Employee-data-225>
+   <ID>225</ID>
+   <Gender>f</Gender>
+   <BirthDate>24758</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21900</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-225>
+<Employee-data-226>
+   <ID>226</ID>
+   <Gender>f</Gender>
+   <BirthDate>23549</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23250</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>4</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-226>
+<Employee-data-227>
+   <ID>227</ID>
+   <Gender>f</Gender>
+   <BirthDate>23940</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33900</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-227>
+<Employee-data-228>
+   <ID>228</ID>
+   <Gender>f</Gender>
+   <BirthDate>23275</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25650</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>51</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-228>
+<Employee-data-229>
+   <ID>229</ID>
+   <Gender>f</Gender>
+   <BirthDate>14844</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>17250</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>358</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-229>
+<Employee-data-230>
+   <ID>230</ID>
+   <Gender>m</Gender>
+   <BirthDate>12454</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22500</Salary>
+   <JobTime>82</JobTime>
+   <PrevExp>371</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-230>
+<Employee-data-231>
+   <ID>231</ID>
+   <Gender>m</Gender>
+   <BirthDate>23751</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>40200</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>3</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-231>
+<Employee-data-232>
+   <ID>232</ID>
+   <Gender>m</Gender>
+   <BirthDate>23267</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>55500</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>62</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-232>
+<Employee-data-233>
+   <ID>233</ID>
+   <Gender>m</Gender>
+   <BirthDate>23213</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26550</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>52</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-233>
+<Employee-data-234>
+   <ID>234</ID>
+   <Gender>m</Gender>
+   <BirthDate>22232</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>50550</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>44</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-234>
+<Employee-data-235>
+   <ID>235</ID>
+   <Gender>m</Gender>
+   <BirthDate>22900</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>75000</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>13</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-235>
+<Employee-data-236>
+   <ID>236</ID>
+   <Gender>f</Gender>
+   <BirthDate>25325</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27450</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>9</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-236>
+<Employee-data-237>
+   <ID>237</ID>
+   <Gender>f</Gender>
+   <BirthDate>25358</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22650</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-237>
+<Employee-data-238>
+   <ID>238</ID>
+   <Gender>f</Gender>
+   <BirthDate>25369</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27300</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-238>
+<Employee-data-239>
+   <ID>239</ID>
+   <Gender>f</Gender>
+   <BirthDate>25460</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27750</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-239>
+<Employee-data-240>
+   <ID>240</ID>
+   <Gender>f</Gender>
+   <BirthDate>22447</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>54375</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>81</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-240>
+<Employee-data-241>
+   <ID>241</ID>
+   <Gender>f</Gender>
+   <BirthDate>13389</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>17400</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>390</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-241>
+<Employee-data-242>
+   <ID>242</ID>
+   <Gender>f</Gender>
+   <BirthDate>24779</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>40800</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>4</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-242>
+<Employee-data-243>
+   <ID>243</ID>
+   <Gender>f</Gender>
+   <BirthDate>25244</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23100</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-243>
+<Employee-data-244>
+   <ID>244</ID>
+   <Gender>f</Gender>
+   <BirthDate>25461</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22500</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-244>
+<Employee-data-245>
+   <ID>245</ID>
+   <Gender>f</Gender>
+   <BirthDate>25278</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26700</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-245>
+<Employee-data-246>
+   <ID>246</ID>
+   <Gender>f</Gender>
+   <BirthDate>24851</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24900</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-246>
+<Employee-data-247>
+   <ID>247</ID>
+   <Gender>f</Gender>
+   <BirthDate>24971</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19650</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-247>
+<Employee-data-248>
+   <ID>248</ID>
+   <Gender>f</Gender>
+   <BirthDate>25302</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22050</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>9</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-248>
+<Employee-data-249>
+   <ID>249</ID>
+   <Gender>f</Gender>
+   <BirthDate>25332</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25500</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-249>
+<Employee-data-250>
+   <ID>250</ID>
+   <Gender>f</Gender>
+   <BirthDate>24390</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28200</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>19</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-250>
+<Employee-data-251>
+   <ID>251</ID>
+   <Gender>f</Gender>
+   <BirthDate>25222</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23100</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>13</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-251>
+<Employee-data-252>
+   <ID>252</ID>
+   <Gender>m</Gender>
+   <BirthDate>25464</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25500</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>9</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-252>
+<Employee-data-253>
+   <ID>253</ID>
+   <Gender>f</Gender>
+   <BirthDate>15393</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>17100</Salary>
+   <JobTime>81</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-253>
+<Employee-data-254>
+   <ID>254</ID>
+   <Gender>m</Gender>
+   <BirthDate>23415</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>68125</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>29</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-254>
+<Employee-data-255>
+   <ID>255</ID>
+   <Gender>m</Gender>
+   <BirthDate>11916</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30600</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>460</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-255>
+<Employee-data-256>
+   <ID>256</ID>
+   <Gender>m</Gender>
+   <BirthDate>17535</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>52125</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>221</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-256>
+<Employee-data-257>
+   <ID>257</ID>
+   <Gender>m</Gender>
+   <BirthDate>18895</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>61875</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>199</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-257>
+<Employee-data-258>
+   <ID>258</ID>
+   <Gender>m</Gender>
+   <BirthDate>25271</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21300</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>24</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-258>
+<Employee-data-259>
+   <ID>259</ID>
+   <Gender>f</Gender>
+   <BirthDate>25277</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19650</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-259>
+<Employee-data-260>
+   <ID>260</ID>
+   <Gender>f</Gender>
+   <BirthDate>25254</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22350</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-260>
+<Employee-data-261>
+   <ID>261</ID>
+   <Gender>f</Gender>
+   <BirthDate>25289</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23400</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-261>
+<Employee-data-262>
+   <ID>262</ID>
+   <Gender>f</Gender>
+   <BirthDate>25009</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24300</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>8</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-262>
+<Employee-data-263>
+   <ID>263</ID>
+   <Gender>f</Gender>
+   <BirthDate>25124</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28500</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>4</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-263>
+<Employee-data-264>
+   <ID>264</ID>
+   <Gender>f</Gender>
+   <BirthDate>25219</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19950</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>8</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-264>
+<Employee-data-265>
+   <ID>265</ID>
+   <Gender>f</Gender>
+   <BirthDate>25470</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23400</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-265>
+<Employee-data-266>
+   <ID>266</ID>
+   <Gender>f</Gender>
+   <BirthDate>23291</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34500</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>3</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-266>
+<Employee-data-267>
+   <ID>267</ID>
+   <Gender>f</Gender>
+   <BirthDate>25439</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>18150</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-267>
+<Employee-data-268>
+   <ID>268</ID>
+   <Gender>m</Gender>
+   <BirthDate>13286</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22350</Salary>
+   <JobTime>80</JobTime>
+   <PrevExp>272</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-268>
+<Employee-data-269>
+   <ID>269</ID>
+   <Gender>m</Gender>
+   <BirthDate>24183</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>40200</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>38</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-269>
+<Employee-data-270>
+   <ID>270</ID>
+   <Gender>m</Gender>
+   <BirthDate>17469</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28650</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>261</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-270>
+<Employee-data-271>
+   <ID>271</ID>
+   <Gender>m</Gender>
+   <BirthDate>23247</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27750</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>55</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-271>
+<Employee-data-272>
+   <ID>272</ID>
+   <Gender>m</Gender>
+   <BirthDate>23545</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>66875</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>30</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-272>
+<Employee-data-273>
+   <ID>273</ID>
+   <Gender>m</Gender>
+   <BirthDate>14561</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30000</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>308</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-273>
+<Employee-data-274>
+   <ID>274</ID>
+   <Gender>m</Gender>
+   <BirthDate>23593</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>83750</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>12</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-274>
+<Employee-data-275>
+   <ID>275</ID>
+   <Gender>m</Gender>
+   <BirthDate>23025</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33900</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>94</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-275>
+<Employee-data-276>
+   <ID>276</ID>
+   <Gender>m</Gender>
+   <BirthDate>23873</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>56500</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>12</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-276>
+<Employee-data-277>
+   <ID>277</ID>
+   <Gender>f</Gender>
+   <BirthDate>23882</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>43000</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>20</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-277>
+<Employee-data-278>
+   <ID>278</ID>
+   <Gender>f</Gender>
+   <BirthDate>15869</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20850</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>70</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-278>
+<Employee-data-279>
+   <ID>279</ID>
+   <Gender>f</Gender>
+   <BirthDate>25309</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>8</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-279>
+<Employee-data-280>
+   <ID>280</ID>
+   <Gender>f</Gender>
+   <BirthDate>25496</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24750</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-280>
+<Employee-data-281>
+   <ID>281</ID>
+   <Gender>m</Gender>
+   <BirthDate>16486</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>34500</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>246</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-281>
+<Employee-data-282>
+   <ID>282</ID>
+   <Gender>m</Gender>
+   <BirthDate>23269</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27900</Salary>
+   <JobTime>79</JobTime>
+   <PrevExp>47</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-282>
+<Employee-data-283>
+   <ID>283</ID>
+   <Gender>m</Gender>
+   <BirthDate>23067</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>68125</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>35</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-283>
+<Employee-data-284>
+   <ID>284</ID>
+   <Gender>m</Gender>
+   <BirthDate>22564</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>73500</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>45</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-284>
+<Employee-data-285>
+   <ID>285</ID>
+   <Gender>m</Gender>
+   <BirthDate>11106</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>429</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-285>
+<Employee-data-286>
+   <ID>286</ID>
+   <Gender>m</Gender>
+   <BirthDate>21251</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>40050</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>133</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-286>
+<Employee-data-287>
+   <ID>287</ID>
+   <Gender>m</Gender>
+   <BirthDate>23760</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>40350</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>20</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-287>
+<Employee-data-288>
+   <ID>288</ID>
+   <Gender>m</Gender>
+   <BirthDate>20111</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>38700</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>176</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-288>
+<Employee-data-289>
+   <ID>289</ID>
+   <Gender>m</Gender>
+   <BirthDate>23677</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>65000</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>26</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-289>
+<Employee-data-290>
+   <ID>290</ID>
+   <Gender>m</Gender>
+   <BirthDate>19819</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>51450</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>149</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-290>
+<Employee-data-291>
+   <ID>291</ID>
+   <Gender>m</Gender>
+   <BirthDate>12685</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>35250</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>387</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-291>
+<Employee-data-292>
+   <ID>292</ID>
+   <Gender>m</Gender>
+   <BirthDate>23138</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25950</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>53</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-292>
+<Employee-data-293>
+   <ID>293</ID>
+   <Gender>m</Gender>
+   <BirthDate>24004</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25050</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>24</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-293>
+<Employee-data-294>
+   <ID>294</ID>
+   <Gender>m</Gender>
+   <BirthDate>25121</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26700</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>25</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-294>
+<Employee-data-295>
+   <ID>295</ID>
+   <Gender>m</Gender>
+   <BirthDate>11921</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>476</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-295>
+<Employee-data-296>
+   <ID>296</ID>
+   <Gender>m</Gender>
+   <BirthDate>23419</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26850</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-296>
+<Employee-data-297>
+   <ID>297</ID>
+   <Gender>f</Gender>
+   <BirthDate>15447</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23400</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>209</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-297>
+<Employee-data-298>
+   <ID>298</ID>
+   <Gender>f</Gender>
+   <BirthDate>24343</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24600</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>47</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-298>
+<Employee-data-299>
+   <ID>299</ID>
+   <Gender>f</Gender>
+   <BirthDate>23873</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>32550</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>6</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-299>
+<Employee-data-300>
+   <ID>300</ID>
+   <Gender>m</Gender>
+   <BirthDate>22062</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26550</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>105</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-300>
+<Employee-data-301>
+   <ID>301</ID>
+   <Gender>m</Gender>
+   <BirthDate>25054</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31500</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>7</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-301>
+<Employee-data-302>
+   <ID>302</ID>
+   <Gender>m</Gender>
+   <BirthDate>14516</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22350</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>320</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-302>
+<Employee-data-303>
+   <ID>303</ID>
+   <Gender>m</Gender>
+   <BirthDate>13921</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>35250</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>281</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-303>
+<Employee-data-304>
+   <ID>304</ID>
+   <Gender>f</Gender>
+   <BirthDate>16708</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25800</Salary>
+   <JobTime>78</JobTime>
+   <PrevExp>51</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-304>
+<Employee-data-305>
+   <ID>305</ID>
+   <Gender>m</Gender>
+   <BirthDate>15274</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>317</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-305>
+<Employee-data-306>
+   <ID>306</ID>
+   <Gender>m</Gender>
+   <BirthDate>24202</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>41</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-306>
+<Employee-data-307>
+   <ID>307</ID>
+   <Gender>m</Gender>
+   <BirthDate>16642</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>50000</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>264</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-307>
+<Employee-data-308>
+   <ID>308</ID>
+   <Gender>m</Gender>
+   <BirthDate>23043</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34500</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>63</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-308>
+<Employee-data-309>
+   <ID>309</ID>
+   <Gender>m</Gender>
+   <BirthDate>23577</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26250</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>38</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-309>
+<Employee-data-310>
+   <ID>310</ID>
+   <Gender>m</Gender>
+   <BirthDate>23459</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>44875</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>22</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-310>
+<Employee-data-311>
+   <ID>311</ID>
+   <Gender>f</Gender>
+   <BirthDate>18674</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22500</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>63</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-311>
+<Employee-data-312>
+   <ID>312</ID>
+   <Gender>f</Gender>
+   <BirthDate>23082</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25650</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>64</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-312>
+<Employee-data-313>
+   <ID>313</ID>
+   <Gender>f</Gender>
+   <BirthDate>25501</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21300</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-313>
+<Employee-data-314>
+   <ID>314</ID>
+   <Gender>f</Gender>
+   <BirthDate>24435</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29850</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>38</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-314>
+<Employee-data-315>
+   <ID>315</ID>
+   <Gender>f</Gender>
+   <BirthDate>25465</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34500</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>4</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-315>
+<Employee-data-316>
+   <ID>316</ID>
+   <Gender>m</Gender>
+   <BirthDate>21929</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27750</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>52</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-316>
+<Employee-data-317>
+   <ID>317</ID>
+   <Gender>m</Gender>
+   <BirthDate>25261</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27750</Salary>
+   <JobTime>77</JobTime>
+   <PrevExp>12</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-317>
+<Employee-data-318>
+   <ID>318</ID>
+   <Gender>m</Gender>
+   <BirthDate>22331</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>48750</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>61</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-318>
+<Employee-data-319>
+   <ID>319</ID>
+   <Gender>m</Gender>
+   <BirthDate>24168</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>43410</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>12</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-319>
+<Employee-data-320>
+   <ID>320</ID>
+   <Gender>m</Gender>
+   <BirthDate>13464</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22050</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>385</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-320>
+<Employee-data-321>
+   <ID>321</ID>
+   <Gender>f</Gender>
+   <BirthDate>19658</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22050</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>6</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-321>
+<Employee-data-322>
+   <ID>322</ID>
+   <Gender>f</Gender>
+   <BirthDate>13941</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22500</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>90</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-322>
+<Employee-data-323>
+   <ID>323</ID>
+   <Gender>f</Gender>
+   <BirthDate>24605</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25500</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>7</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-323>
+<Employee-data-324>
+   <ID>324</ID>
+   <Gender>f</Gender>
+   <BirthDate>24394</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29160</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>22</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-324>
+<Employee-data-325>
+   <ID>325</ID>
+   <Gender>f</Gender>
+   <BirthDate>12727</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16800</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>76</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-325>
+<Employee-data-326>
+   <ID>326</ID>
+   <Gender>m</Gender>
+   <BirthDate>21390</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>29550</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>144</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-326>
+<Employee-data-327>
+   <ID>327</ID>
+   <Gender>m</Gender>
+   <BirthDate>23803</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26700</Salary>
+   <JobTime>76</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-327>
+<Employee-data-328>
+   <ID>328</ID>
+   <Gender>m</Gender>
+   <BirthDate>19292</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>55000</Salary>
+   <JobTime>75</JobTime>
+   <PrevExp>125</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-328>
+<Employee-data-329>
+   <ID>329</ID>
+   <Gender>m</Gender>
+   <BirthDate>21421</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>62500</Salary>
+   <JobTime>75</JobTime>
+   <PrevExp>74</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-329>
+<Employee-data-330>
+   <ID>330</ID>
+   <Gender>m</Gender>
+   <BirthDate>21679</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27300</Salary>
+   <JobTime>75</JobTime>
+   <PrevExp>132</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-330>
+<Employee-data-331>
+   <ID>331</ID>
+   <Gender>f</Gender>
+   <BirthDate>15376</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>75</JobTime>
+   <PrevExp>144</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-331>
+<Employee-data-332>
+   <ID>332</ID>
+   <Gender>f</Gender>
+   <BirthDate>23507</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33000</Salary>
+   <JobTime>75</JobTime>
+   <PrevExp>26</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-332>
+<Employee-data-333>
+   <ID>333</ID>
+   <Gender>f</Gender>
+   <BirthDate>23768</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>37050</Salary>
+   <JobTime>75</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-333>
+<Employee-data-334>
+   <ID>334</ID>
+   <Gender>f</Gender>
+   <BirthDate>24236</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>75</JobTime>
+   <PrevExp>32</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-334>
+<Employee-data-335>
+   <ID>335</ID>
+   <Gender>m</Gender>
+   <BirthDate>11015</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>31950</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>408</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-335>
+<Employee-data-336>
+   <ID>336</ID>
+   <Gender>m</Gender>
+   <BirthDate>23386</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>47250</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>45</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-336>
+<Employee-data-337>
+   <ID>337</ID>
+   <Gender>f</Gender>
+   <BirthDate>25595</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26100</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>2</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-337>
+<Employee-data-338>
+   <ID>338</ID>
+   <Gender>f</Gender>
+   <BirthDate>14104</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>15900</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>43</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-338>
+<Employee-data-339>
+   <ID>339</ID>
+   <Gender>f</Gender>
+   <BirthDate>15652</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23700</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>281</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-339>
+<Employee-data-340>
+   <ID>340</ID>
+   <Gender>f</Gender>
+   <BirthDate>12545</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21750</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>318</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-340>
+<Employee-data-341>
+   <ID>341</ID>
+   <Gender>m</Gender>
+   <BirthDate>16457</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>59400</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>272</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-341>
+<Employee-data-342>
+   <ID>342</ID>
+   <Gender>f</Gender>
+   <BirthDate>17685</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>74</JobTime>
+   <PrevExp>117</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-342>
+<Employee-data-343>
+   <ID>343</ID>
+   <Gender>m</Gender>
+   <BirthDate>19519</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>103500</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>150</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-343>
+<Employee-data-344>
+   <ID>344</ID>
+   <Gender>m</Gender>
+   <BirthDate>23297</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35700</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>72</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-344>
+<Employee-data-345>
+   <ID>345</ID>
+   <Gender>f</Gender>
+   <BirthDate>25328</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22200</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>7</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-345>
+<Employee-data-346>
+   <ID>346</ID>
+   <Gender>f</Gender>
+   <BirthDate>25066</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22950</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>22</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-346>
+<Employee-data-347>
+   <ID>347</ID>
+   <Gender>f</Gender>
+   <BirthDate>16294</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23100</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>228</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-347>
+<Employee-data-348>
+   <ID>348</ID>
+   <Gender>f</Gender>
+   <BirthDate>22808</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>56750</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>15</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-348>
+<Employee-data-349>
+   <ID>349</ID>
+   <Gender>f</Gender>
+   <BirthDate>13961</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29100</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>375</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-349>
+<Employee-data-350>
+   <ID>350</ID>
+   <Gender>f</Gender>
+   <BirthDate>14356</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>37650</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>132</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-350>
+<Employee-data-351>
+   <ID>351</ID>
+   <Gender>f</Gender>
+   <BirthDate>24134</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27900</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>32</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-351>
+<Employee-data-352>
+   <ID>352</ID>
+   <Gender>f</Gender>
+   <BirthDate>12384</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21150</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>159</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-352>
+<Employee-data-353>
+   <ID>353</ID>
+   <Gender>m</Gender>
+   <BirthDate>20158</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>31200</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>155</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-353>
+<Employee-data-354>
+   <ID>354</ID>
+   <Gender>f</Gender>
+   <BirthDate>16930</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20550</Salary>
+   <JobTime>73</JobTime>
+   <PrevExp>154</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-354>
+<Employee-data-355>
+   <ID>355</ID>
+   <Gender>m</Gender>
+   <BirthDate>22420</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25950</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>83</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-355>
+<Employee-data-356>
+   <ID>356</ID>
+   <Gender>m</Gender>
+   <BirthDate>24056</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28350</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-356>
+<Employee-data-357>
+   <ID>357</ID>
+   <Gender>f</Gender>
+   <BirthDate>11706</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>17700</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>184</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-357>
+<Employee-data-358>
+   <ID>358</ID>
+   <Gender>f</Gender>
+   <BirthDate>16173</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23550</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>49</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-358>
+<Employee-data-359>
+   <ID>359</ID>
+   <Gender>f</Gender>
+   <BirthDate>15139</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19950</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>56</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-359>
+<Employee-data-360>
+   <ID>360</ID>
+   <Gender>f</Gender>
+   <BirthDate>25061</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29400</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>30</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-360>
+<Employee-data-361>
+   <ID>361</ID>
+   <Gender>f</Gender>
+   <BirthDate>24267</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28800</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-361>
+<Employee-data-362>
+   <ID>362</ID>
+   <Gender>f</Gender>
+   <BirthDate>13613</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16950</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>319</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-362>
+<Employee-data-363>
+   <ID>363</ID>
+   <Gender>m</Gender>
+   <BirthDate>19878</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35700</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>138</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-363>
+<Employee-data-364>
+   <ID>364</ID>
+   <Gender>f</Gender>
+   <BirthDate>17252</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>17400</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>116</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-364>
+<Employee-data-365>
+   <ID>365</ID>
+   <Gender>f</Gender>
+   <BirthDate>17822</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21450</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>194</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-365>
+<Employee-data-366>
+   <ID>366</ID>
+   <Gender>f</Gender>
+   <BirthDate>22361</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24750</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>68</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-366>
+<Employee-data-367>
+   <ID>367</ID>
+   <Gender>f</Gender>
+   <BirthDate>15483</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16950</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>271</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-367>
+<Employee-data-368>
+   <ID>368</ID>
+   <Gender>f</Gender>
+   <BirthDate>15907</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26100</Salary>
+   <JobTime>72</JobTime>
+   <PrevExp>169</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-368>
+<Employee-data-369>
+   <ID>369</ID>
+   <Gender>m</Gender>
+   <BirthDate>24790</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28050</Salary>
+   <JobTime>71</JobTime>
+   <PrevExp>15</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-369>
+<Employee-data-370>
+   <ID>370</ID>
+   <Gender>f</Gender>
+   <BirthDate>23031</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>36600</Salary>
+   <JobTime>71</JobTime>
+   <PrevExp>12</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-370>
+<Employee-data-371>
+   <ID>371</ID>
+   <Gender>f</Gender>
+   <BirthDate>24202</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>58125</Salary>
+   <JobTime>71</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-371>
+<Employee-data-372>
+   <ID>372</ID>
+   <Gender>m</Gender>
+   <BirthDate>13018</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21300</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>372</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-372>
+<Employee-data-373>
+   <ID>373</ID>
+   <Gender>m</Gender>
+   <BirthDate>18200</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22500</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>216</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-373>
+<Employee-data-374>
+   <ID>374</ID>
+   <Gender>m</Gender>
+   <BirthDate>24679</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29400</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>15</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-374>
+<Employee-data-375>
+   <ID>375</ID>
+   <Gender>m</Gender>
+   <BirthDate>24388</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27450</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>41</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-375>
+<Employee-data-376>
+   <ID>376</ID>
+   <Gender>m</Gender>
+   <BirthDate>23659</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29850</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>48</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-376>
+<Employee-data-377>
+   <ID>377</ID>
+   <Gender>m</Gender>
+   <BirthDate>24075</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25350</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>56</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-377>
+<Employee-data-378>
+   <ID>378</ID>
+   <Gender>f</Gender>
+   <BirthDate>11222</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>15750</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>275</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-378>
+<Employee-data-379>
+   <ID>379</ID>
+   <Gender>f</Gender>
+   <BirthDate>14012</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19650</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>102</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-379>
+<Employee-data-380>
+   <ID>380</ID>
+   <Gender>f</Gender>
+   <BirthDate>15029</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21000</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>82</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-380>
+<Employee-data-381>
+   <ID>381</ID>
+   <Gender>m</Gender>
+   <BirthDate>16998</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27000</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>192</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-381>
+<Employee-data-382>
+   <ID>382</ID>
+   <Gender>m</Gender>
+   <BirthDate>21843</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24000</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>120</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-382>
+<Employee-data-383>
+   <ID>383</ID>
+   <Gender>m</Gender>
+   <BirthDate>22435</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>78500</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>67</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-383>
+<Employee-data-384>
+   <ID>384</ID>
+   <Gender>f</Gender>
+   <BirthDate>20404</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20850</Salary>
+   <JobTime>70</JobTime>
+   <PrevExp>127</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-384>
+<Employee-data-385>
+   <ID>385</ID>
+   <Gender>m</Gender>
+   <BirthDate>11232</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30000</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>348</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-385>
+<Employee-data-386>
+   <ID>386</ID>
+   <Gender>m</Gender>
+   <BirthDate>12649</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>28500</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>174</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-386>
+<Employee-data-387>
+   <ID>387</ID>
+   <Gender>m</Gender>
+   <BirthDate>23776</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>65000</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>74</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-387>
+<Employee-data-388>
+   <ID>388</ID>
+   <Gender>m</Gender>
+   <BirthDate>21552</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30150</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>110</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-388>
+<Employee-data-389>
+   <ID>389</ID>
+   <Gender>m</Gender>
+   <BirthDate>21655</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>66875</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>81</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-389>
+<Employee-data-390>
+   <ID>390</ID>
+   <Gender>f</Gender>
+   <BirthDate>25151</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24150</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>7</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-390>
+<Employee-data-391>
+   <ID>391</ID>
+   <Gender>f</Gender>
+   <BirthDate>25215</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>12</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-391>
+<Employee-data-392>
+   <ID>392</ID>
+   <Gender>f</Gender>
+   <BirthDate>25700</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21600</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-392>
+<Employee-data-393>
+   <ID>393</ID>
+   <Gender>f</Gender>
+   <BirthDate>25378</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27900</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-393>
+<Employee-data-394>
+   <ID>394</ID>
+   <Gender>f</Gender>
+   <BirthDate>25603</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29100</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>17</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-394>
+<Employee-data-395>
+   <ID>395</ID>
+   <Gender>f</Gender>
+   <BirthDate>25636</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22650</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>2</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-395>
+<Employee-data-396>
+   <ID>396</ID>
+   <Gender>f</Gender>
+   <BirthDate>25797</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20850</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-396>
+<Employee-data-397>
+   <ID>397</ID>
+   <Gender>f</Gender>
+   <BirthDate>25585</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22950</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-397>
+<Employee-data-398>
+   <ID>398</ID>
+   <Gender>f</Gender>
+   <BirthDate>25893</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30600</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>5</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-398>
+<Employee-data-399>
+   <ID>399</ID>
+   <Gender>f</Gender>
+   <BirthDate>25605</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20400</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-399>
+<Employee-data-400>
+   <ID>400</ID>
+   <Gender>f</Gender>
+   <BirthDate>25421</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23850</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>20</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-400>
+<Employee-data-401>
+   <ID>401</ID>
+   <Gender>f</Gender>
+   <BirthDate>25641</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22800</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-401>
+<Employee-data-402>
+   <ID>402</ID>
+   <Gender>f</Gender>
+   <BirthDate>25606</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20700</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>2</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-402>
+<Employee-data-403>
+   <ID>403</ID>
+   <Gender>f</Gender>
+   <BirthDate>25686</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21300</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>3</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-403>
+<Employee-data-404>
+   <ID>404</ID>
+   <Gender>f</Gender>
+   <BirthDate>19480</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24300</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>121</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-404>
+<Employee-data-405>
+   <ID>405</ID>
+   <Gender>f</Gender>
+   <BirthDate>16265</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>19650</Salary>
+   <JobTime>69</JobTime>
+   <PrevExp>133</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-405>
+<Employee-data-406>
+   <ID>406</ID>
+   <Gender>m</Gender>
+   <BirthDate>24020</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>60000</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>17</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-406>
+<Employee-data-407>
+   <ID>407</ID>
+   <Gender>m</Gender>
+   <BirthDate>23991</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30300</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>55</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-407>
+<Employee-data-408>
+   <ID>408</ID>
+   <Gender>m</Gender>
+   <BirthDate>23419</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>61250</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>9</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-408>
+<Employee-data-409>
+   <ID>409</ID>
+   <Gender>m</Gender>
+   <BirthDate>22971</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>36000</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>21</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-409>
+<Employee-data-410>
+   <ID>410</ID>
+   <Gender>f</Gender>
+   <BirthDate>15350</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25200</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>344</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-410>
+<Employee-data-411>
+   <ID>411</ID>
+   <Gender>f</Gender>
+   <BirthDate>11556</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16200</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>180</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-411>
+<Employee-data-412>
+   <ID>412</ID>
+   <Gender>f</Gender>
+   <BirthDate>25735</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22800</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>2</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-412>
+<Employee-data-413>
+   <ID>413</ID>
+   <Gender>f</Gender>
+   <BirthDate>24179</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>43500</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>11</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-413>
+<Employee-data-414>
+   <ID>414</ID>
+   <Gender>m</Gender>
+   <BirthDate>22289</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30300</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>155</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-414>
+<Employee-data-415>
+   <ID>415</ID>
+   <Gender>m</Gender>
+   <BirthDate>23133</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31950</Salary>
+   <JobTime>68</JobTime>
+   <PrevExp>70</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-415>
+<Employee-data-416>
+   <ID>416</ID>
+   <Gender>m</Gender>
+   <BirthDate>23758</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>35250</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>6</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-416>
+<Employee-data-417>
+   <ID>417</ID>
+   <Gender>m</Gender>
+   <BirthDate>24675</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>37800</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>36</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-417>
+<Employee-data-418>
+   <ID>418</ID>
+   <Gender>m</Gender>
+   <BirthDate>23898</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31200</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>46</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-418>
+<Employee-data-419>
+   <ID>419</ID>
+   <Gender>m</Gender>
+   <BirthDate>23670</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29400</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>68</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-419>
+<Employee-data-420>
+   <ID>420</ID>
+   <Gender>m</Gender>
+   <BirthDate>21017</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>70000</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>75</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-420>
+<Employee-data-421>
+   <ID>421</ID>
+   <Gender>m</Gender>
+   <BirthDate>22586</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33900</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>96</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-421>
+<Employee-data-422>
+   <ID>422</ID>
+   <Gender>m</Gender>
+   <BirthDate>23212</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>27150</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>78</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-422>
+<Employee-data-423>
+   <ID>423</ID>
+   <Gender>f</Gender>
+   <BirthDate>13266</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22200</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>196</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-423>
+<Employee-data-424>
+   <ID>424</ID>
+   <Gender>f</Gender>
+   <BirthDate>24294</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31350</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>47</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-424>
+<Employee-data-425>
+   <ID>425</ID>
+   <Gender>f</Gender>
+   <BirthDate>15367</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20850</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>181</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-425>
+<Employee-data-426>
+   <ID>426</ID>
+   <Gender>m</Gender>
+   <BirthDate>19294</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33300</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>120</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-426>
+<Employee-data-427>
+   <ID>427</ID>
+   <Gender>m</Gender>
+   <BirthDate>15452</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26250</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>97</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-427>
+<Employee-data-428>
+   <ID>428</ID>
+   <Gender>m</Gender>
+   <BirthDate>23435</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31950</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>58</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-428>
+<Employee-data-429>
+   <ID>429</ID>
+   <Gender>m</Gender>
+   <BirthDate>17027</BirthDate>
+   <Jobcat>2</Jobcat>
+   <Salary>30000</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>305</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-429>
+<Employee-data-430>
+   <ID>430</ID>
+   <Gender>m</Gender>
+   <BirthDate>20574</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>66250</Salary>
+   <JobTime>67</JobTime>
+   <PrevExp>99</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-430>
+<Employee-data-431>
+   <ID>431</ID>
+   <Gender>m</Gender>
+   <BirthDate>21565</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>86250</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>50</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-431>
+<Employee-data-432>
+   <ID>432</ID>
+   <Gender>m</Gender>
+   <BirthDate>23448</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30750</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>56</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-432>
+<Employee-data-433>
+   <ID>433</ID>
+   <Gender>m</Gender>
+   <BirthDate>24426</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33540</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>47</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-433>
+<Employee-data-434>
+   <ID>434</ID>
+   <Gender>m</Gender>
+   <BirthDate>-2146826288</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>34950</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>55</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-434>
+<Employee-data-435>
+   <ID>435</ID>
+   <Gender>m</Gender>
+   <BirthDate>23521</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>40350</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>80</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-435>
+<Employee-data-436>
+   <ID>436</ID>
+   <Gender>m</Gender>
+   <BirthDate>23889</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>30270</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>80</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-436>
+<Employee-data-437>
+   <ID>437</ID>
+   <Gender>m</Gender>
+   <BirthDate>12301</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26250</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>264</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-437>
+<Employee-data-438>
+   <ID>438</ID>
+   <Gender>m</Gender>
+   <BirthDate>23661</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>32400</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>64</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-438>
+<Employee-data-439>
+   <ID>439</ID>
+   <Gender>f</Gender>
+   <BirthDate>25744</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20400</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-439>
+<Employee-data-440>
+   <ID>440</ID>
+   <Gender>f</Gender>
+   <BirthDate>17481</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24150</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>96</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-440>
+<Employee-data-441>
+   <ID>441</ID>
+   <Gender>f</Gender>
+   <BirthDate>18112</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23850</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>122</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-441>
+<Employee-data-442>
+   <ID>442</ID>
+   <Gender>f</Gender>
+   <BirthDate>25099</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29700</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>26</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-442>
+<Employee-data-443>
+   <ID>443</ID>
+   <Gender>f</Gender>
+   <BirthDate>10634</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21600</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>228</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-443>
+<Employee-data-444>
+   <ID>444</ID>
+   <Gender>f</Gender>
+   <BirthDate>22540</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>87</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-444>
+<Employee-data-445>
+   <ID>445</ID>
+   <Gender>m</Gender>
+   <BirthDate>23227</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28050</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>84</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-445>
+<Employee-data-446>
+   <ID>446</ID>
+   <Gender>m</Gender>
+   <BirthDate>21400</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>100000</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>128</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-446>
+<Employee-data-447>
+   <ID>447</ID>
+   <Gender>m</Gender>
+   <BirthDate>22464</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>49000</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>86</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-447>
+<Employee-data-448>
+   <ID>448</ID>
+   <Gender>f</Gender>
+   <BirthDate>12210</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>16350</Salary>
+   <JobTime>66</JobTime>
+   <PrevExp>163</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-448>
+<Employee-data-449>
+   <ID>449</ID>
+   <Gender>m</Gender>
+   <BirthDate>24109</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>70000</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>19</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-449>
+<Employee-data-450>
+   <ID>450</ID>
+   <Gender>m</Gender>
+   <BirthDate>19926</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>55000</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>129</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-450>
+<Employee-data-451>
+   <ID>451</ID>
+   <Gender>m</Gender>
+   <BirthDate>25403</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28500</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>20</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-451>
+<Employee-data-452>
+   <ID>452</ID>
+   <Gender>m</Gender>
+   <BirthDate>19584</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>28800</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>210</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-452>
+<Employee-data-453>
+   <ID>453</ID>
+   <Gender>m</Gender>
+   <BirthDate>11177</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>24450</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>338</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-453>
+<Employee-data-454>
+   <ID>454</ID>
+   <Gender>m</Gender>
+   <BirthDate>23951</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>90625</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>18</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-454>
+<Employee-data-455>
+   <ID>455</ID>
+   <Gender>m</Gender>
+   <BirthDate>23393</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>43650</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>19</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-455>
+<Employee-data-456>
+   <ID>456</ID>
+   <Gender>m</Gender>
+   <BirthDate>21840</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>75000</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>54</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-456>
+<Employee-data-457>
+   <ID>457</ID>
+   <Gender>m</Gender>
+   <BirthDate>24985</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>31650</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>10</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-457>
+<Employee-data-458>
+   <ID>458</ID>
+   <Gender>m</Gender>
+   <BirthDate>23929</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>61875</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>26</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-458>
+<Employee-data-459>
+   <ID>459</ID>
+   <Gender>f</Gender>
+   <BirthDate>25974</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21750</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>0</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-459>
+<Employee-data-460>
+   <ID>460</ID>
+   <Gender>f</Gender>
+   <BirthDate>25427</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>22500</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>24</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-460>
+<Employee-data-461>
+   <ID>461</ID>
+   <Gender>f</Gender>
+   <BirthDate>16018</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21600</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>173</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-461>
+<Employee-data-462>
+   <ID>462</ID>
+   <Gender>f</Gender>
+   <BirthDate>23302</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>34410</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>79</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-462>
+<Employee-data-463>
+   <ID>463</ID>
+   <Gender>f</Gender>
+   <BirthDate>12707</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>20700</Salary>
+   <JobTime>65</JobTime>
+   <PrevExp>241</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-463>
+<Employee-data-464>
+   <ID>464</ID>
+   <Gender>m</Gender>
+   <BirthDate>22725</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>47550</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>27</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-464>
+<Employee-data-465>
+   <ID>465</ID>
+   <Gender>m</Gender>
+   <BirthDate>22847</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>33900</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>106</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-465>
+<Employee-data-466>
+   <ID>466</ID>
+   <Gender>f</Gender>
+   <BirthDate>17699</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>23400</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>198</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-466>
+<Employee-data-467>
+   <ID>467</ID>
+   <Gender>f</Gender>
+   <BirthDate>24702</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>32850</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>20</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-467>
+<Employee-data-468>
+   <ID>468</ID>
+   <Gender>f</Gender>
+   <BirthDate>24074</BirthDate>
+   <Jobcat>3</Jobcat>
+   <Salary>55750</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>36</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-468>
+<Employee-data-469>
+   <ID>469</ID>
+   <Gender>f</Gender>
+   <BirthDate>23529</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>25200</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>57</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-469>
+<Employee-data-470>
+   <ID>470</ID>
+   <Gender>m</Gender>
+   <BirthDate>23398</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26250</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>69</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-470>
+<Employee-data-471>
+   <ID>471</ID>
+   <Gender>m</Gender>
+   <BirthDate>24322</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>26400</Salary>
+   <JobTime>64</JobTime>
+   <PrevExp>32</PrevExp>
+   <Minority>1</Minority>
+</Employee-data-471>
+<Employee-data-472>
+   <ID>472</ID>
+   <Gender>m</Gender>
+   <BirthDate>24159</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>39150</Salary>
+   <JobTime>63</JobTime>
+   <PrevExp>46</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-472>
+<Employee-data-473>
+   <ID>473</ID>
+   <Gender>f</Gender>
+   <BirthDate>13844</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>21450</Salary>
+   <JobTime>63</JobTime>
+   <PrevExp>139</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-473>
+<Employee-data-474>
+   <ID>474</ID>
+   <Gender>f</Gender>
+   <BirthDate>25147</BirthDate>
+   <Jobcat>1</Jobcat>
+   <Salary>29400</Salary>
+   <JobTime>63</JobTime>
+   <PrevExp>9</PrevExp>
+   <Minority>0</Minority>
+</Employee-data-474>
+</Sample-excel-file-with-employee-data>
