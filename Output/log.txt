@@ -1,18 +1,21 @@
-2020-03-20 03:06:06 Processing configurations...
-2020-03-20 03:06:06 Import Path     : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile
-2020-03-20 03:06:06 Export Path     : C:\Users\asdfk\source\repos\FileFormatConverter\Output
-2020-03-20 03:06:06 Export Format   : JSON, XML
-2020-03-20 03:06:08 Valid processing file   : 'Sample-excel-file-with-employee-data.xlsx'
-2020-03-20 03:06:08 Invalid processing file : 'test.docx'
-2020-03-20 03:06:08 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.json'
-2020-03-20 03:06:08 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.xml'
-2020-03-20 03:06:08 Loading 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Sample-excel-file-with-employee-data.xlsx'
-2020-03-20 03:06:08 Starting Excel Generator...
-2020-03-20 03:08:13 Finished to read the import file.
-2020-03-20 03:08:13 Creating Json file...
-2020-03-20 03:08:13 Created Json file : C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.json
-2020-03-20 03:08:13 Creating Xml file...
-2020-03-20 03:08:13 Created Xml file : C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.xml
-2020-03-20 03:08:13 Done processing configurations.
-2020-03-20 03:08:13 Output Path     : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output'
-2020-03-20 03:08:13 Log file Path   : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\log.txt'
+2020-03-21 02:29:12 Processing configurations...
+2020-03-21 02:29:12 Import Path     : C:\Users\asdfk\source\repos\FileFormatConverter\TestFile
+2020-03-21 02:29:13 Export Path     : C:\Users\asdfk\source\repos\FileFormatConverter\Output
+2020-03-21 02:29:13 Export Format   : JSON, XML, CSV
+2020-03-21 02:29:13 Valid processing file   : 'Sample-excel-file-with-employee-data.xlsx'
+2020-03-21 02:29:13 Invalid processing file : 'test.docx'
+2020-03-21 02:29:13 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.json'
+2020-03-21 02:29:13 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.xml'
+2020-03-21 02:29:13 Create File - 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.csv'
+2020-03-21 02:29:13 Loading 'C:\Users\asdfk\source\repos\FileFormatConverter\TestFile\Sample-excel-file-with-employee-data.xlsx'
+2020-03-21 02:29:13 Starting Excel Generator...
+2020-03-21 02:30:46 Finished to read the import file.
+2020-03-21 02:30:46 Creating Json file...
+2020-03-21 02:30:46 Created Json file : C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.json
+2020-03-21 02:30:46 Creating Xml file...
+2020-03-21 02:30:46 Created Xml file : C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.xml
+2020-03-21 02:30:46 Creating Csv file...
+2020-03-21 02:30:46 Created Csv file : C:\Users\asdfk\source\repos\FileFormatConverter\Output\Sample-excel-file-with-employee-data.csv
+2020-03-21 02:30:46 Done processing configurations.
+2020-03-21 02:30:46 Output Path     : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output'
+2020-03-21 02:30:46 Log file Path   : 'C:\Users\asdfk\source\repos\FileFormatConverter\Output\log.txt'

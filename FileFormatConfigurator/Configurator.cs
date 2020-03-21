@@ -47,7 +47,13 @@ namespace FileFormatConfigurator
                                 var xmlWriter = new XmlWriter(validImportFile, outputFilePathList, excelGenerator);
                                 OnStatusMessage($"Created Xml file : {outputPath}");
                             }
-                        }
+                            else if (outputPath.Contains("csv"))
+                            {
+                                OnStatusMessage($"Creating Csv file...");
+                                var csvWriter = new CsvWriter(validImportFile, outputFilePathList, excelGenerator);
+                                OnStatusMessage($"Created Csv file : {outputPath}");
+                            }
+                    }
                         break;
                     case ".json":
                         break;
